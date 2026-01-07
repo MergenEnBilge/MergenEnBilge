@@ -41,17 +41,11 @@
 
 <div align="center">
 
-<img src="https://nirzak-streak-stats.vercel.app/?user=MergenEnBilge&theme=shadow_red&show_border=false" height="150" alt="streak stats graph" />
+<img src="https://nirzak-streak-stats.vercel.app/?user=MergenEnBilge&theme=dark&hide_border=true&background=0D1117&ring=FFD700&fire=FFD700&currStreakLabel=FFD700&sideLabels=FFD700&currStreakNum=FFD700&sideNums=FFD700&dates=FFD700" height="150" alt="streak stats graph" />
 
 </div>
 
 <br/>
-
-<div align="center">
- 
-  <img src="https://github-readme-stats.vercel.app/api?username=MergenEnBilge&show_icons=true&include_all_commits=true&count_private=true&theme=github-dark&hide_border=true&title_color=FFD700&icon_color=FFD700&text_color=FFD700&bg_color=0D1117" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MergenEnBilge&layout=compact&langs_count=5&theme=github-dark&hide_border=true&title_color=FFD700&text_color=FFD700&bg_color=0D1117" height="150" alt="languages graph" />
-</div>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=MergenEnBilge&theme=github-compact&hide_border=true&bg_color=0D1117&color=FFD700&line=FFD700&point=FFD700" width="100%" />
 
