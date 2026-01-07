@@ -1,14 +1,14 @@
-
+<!-- Minimalist & Professional GitHub Profile README -->
+<!-- Gold Theme on GitHub Dark Background -->
 
 <div align="center">
   
-
 <div align="center" style="margin-bottom:30px; line-height:1.5; max-width:650px;">
-  <span style="font-size:50px; color:#FFD700; vertical-align:top;">“</span>
+  <span style="font-size:50px; color:#FFD700; vertical-align:top;">"</span>
   <span style="font-size:20px; color:#FFD700; font-style:italic; margin:0 10px;">
     The unexamined life is not worth living.
   </span>
-  <span style="font-size:50px; color:#FFD700; vertical-align:bottom;">”</span>
+  <span style="font-size:50px; color:#FFD700; vertical-align:bottom;">"</span>
   <div style="margin-top:10px; font-size:16px; color:#FFD700; font-style:italic;">
     – Socrates
   </div>
@@ -40,14 +40,13 @@
 
 ## GitHub Stats & Contributions
 
-<div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=MergenEnBilge&show_icons=true&theme=github-dark&hide_border=true&title_color=FFD700&icon_color=FFD700&text_color=FFD700&bg_color=0D1117" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MergenEnBilge&theme=github-dark-blue&hide_border=true&ring=FFD700&fire=FFD700&currStreakLabel=FFD700&background=0D1117" width="49%" />
+<br/>
+
+<div align="center">
+ 
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=MergenEnBilge&theme=github-compact&hide_border=true&bg_color=0D1117&color=FFD700&line=FFD700&point=FFD700" width="100%" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MergenEnBilge&layout=compact&theme=github-dark&hide_border=true&title_color=FFD700&text_color=FFD700&bg_color=0D1117" width="49%" />
 
 </div>
 
