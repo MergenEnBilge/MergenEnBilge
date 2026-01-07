@@ -84,13 +84,14 @@ def update_readme(quote, author):
     
     # Regex pattern to match the existing quote section
     quote_pattern = (
-        r'(<div align="center" style="margin-bottom:30px; line-height:1\.5; max-width:650px;">'
-        r'.*?<span style="font-size:20px; color:#FFD700; font-style:italic; margin:0 10px;">)'
-        r'(.*?)'
-        r'(</span>.*?<div style="margin-top:10px; font-size:16px; color:#FFD700; font-style:italic;">.*?– )'
-        r'(.*?)'
-        r'(</div>.*?</div>)'
+        r'(<div align="center" style="margin-bottom:30px; line-height:1\.5; max-width:650px;">.*?'
+        r'<span.*?>)'          # Match opening span for quote, ignore extra styles
+        r'(.*?)'                # Capture the quote text
+        r'(</span>.*?–\s*)'    # Match the dash separator
+        r'(.*?)'                # Capture the author
+        r'(</div>.*?</div>)'    # Match closing divs
     )
+
     
     # Replace with the new quote and author
     new_content = re.sub(
