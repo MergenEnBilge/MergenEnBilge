@@ -2,7 +2,7 @@ name: Update Daily Quote
 
 on:
   schedule:
-    - cron: '0 0 * * *'
+    - cron: '0 0 * * *' # every day at midnight UTC
   workflow_dispatch:
 
 jobs:
@@ -30,8 +30,7 @@ jobs:
           git add README.md
           if ! git diff --cached --quiet; then
             git commit -m "Update daily quote"
-            # Push using the GITHUB_TOKEN for authentication
-            git push https://x-access-token:${GITHUB_TOKEN}@github.com/${{ github.repository }}.git HEAD:${{ github.ref_name }}
+            git push https://x-access-token:${GITHUB_TOKEN}@github.com/${{ github.repository }}.git HEAD:main
           fi
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
