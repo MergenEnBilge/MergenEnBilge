@@ -4,9 +4,9 @@
 <!-- QUOTE_START -->
 <div align="center">
 
-### ❝ *The unexamined life is not worth living.* ❞
+### ❝ *Talk is cheap. Show me the code.* ❞
 
-#### *— Socrates*
+#### *— Linus Torvalds*
 
 </div>
 <!-- QUOTE_END -->
