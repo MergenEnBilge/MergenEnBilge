@@ -5,7 +5,7 @@ def get_random_quote():
     """Return a random quote from a predefined collection."""
     
     quotes = [
-        # 1–20: Western / software-related / philosophy
+        # Western / software-related / philosophy
         ("The unexamined life is not worth living.", "Socrates"),
         ("Be yourself; everyone else is already taken.", "Oscar Wilde"),
         ("The only way to do great work is to love what you do.", "Steve Jobs"),
@@ -27,7 +27,7 @@ def get_random_quote():
         ("Fortune favors the bold.", "Virgil"),
         ("It is not the strongest of the species that survive, but the most adaptable.", "Charles Darwin"),
 
-        # 21–40: Eastern / Islamicate / Indic philosophers and rulers
+        # Eastern / Islamicate / Indic philosophers and rulers
         ("He who conquers himself is the mightiest warrior.", "Chingiz Khan"),
         ("The greatest victory is the one that requires no battle.", "Timur"),
         ("Do not be content with small deeds; strive for greatness.", "Babur"),
@@ -49,7 +49,7 @@ def get_random_quote():
         ("Do not be afraid to make mistakes; they are the stepping stones to mastery.", "Unknown"),
         ("He who is not courageous enough to take risks will accomplish nothing in life.", "Muhammad Ali"),
 
-        # 41–60: Additional modern and philosophical quotes suitable for engineers
+        # Additional modern and philosophical quotes
         ("Elegance is not a dispensable luxury but a quality that decides between success and failure.", "Edsger W. Dijkstra"),
         ("Programs are meant to be read by humans and only incidentally for computers to execute.", "Harold Abelson"),
         ("Debugging is like being the detective in a crime movie where you are also the murderer.", "Filipe Fortes"),
@@ -67,7 +67,7 @@ def get_random_quote():
         ("Great works are performed not by strength, but by perseverance.", "Samuel Johnson"),
         ("Vision without execution is hallucination.", "Thomas Edison"),
         ("Knowledge without practice is useless.", "Al-Ghazali"),
-        ("A man who has committed a mistake and doesn’t correct it is committing another mistake.", "Confucius"),
+        ("A man who has committed a mistake and doesn't correct it is committing another mistake.", "Confucius"),
         ("Do what you can, with what you have, where you are.", "Theodore Roosevelt"),
         ("An investment in knowledge pays the best interest.", "Benjamin Franklin"),
         ("Mistakes are the portals of discovery.", "James Joyce"),
@@ -82,21 +82,24 @@ def update_readme(quote, author):
     with open('README.md', 'r', encoding='utf-8') as f:
         content = f.read()
     
-    # Regex pattern to match the existing quote section
-    quote_pattern = (
-        r'(<div align="center" style="margin-bottom:30px; line-height:1\.5; max-width:650px;">.*?'
-        r'<span.*?>)'          # Match opening span for quote, ignore extra styles
-        r'(.*?)'                # Capture the quote text
-        r'(</span>.*?–\s*)'    # Match the dash separator
-        r'(.*?)'                # Capture the author
-        r'(</div>.*?</div>)'    # Match closing divs
-    )
-
+    # Simple pattern to find the quote and author between START and END markers
+    quote_pattern = r'(<!-- QUOTE_START -->).*?(<!-- QUOTE_END -->)'
     
-    # Replace with the new quote and author
+    # New quote section
+    new_quote_section = f'''<!-- QUOTE_START -->
+<div align="center">
+
+### ❝ *{quote}* ❞
+
+#### *— {author}*
+
+</div>
+<!-- QUOTE_END -->'''
+    
+    # Replace the quote section
     new_content = re.sub(
         quote_pattern,
-        rf'\1{quote}\3{author}\5',
+        new_quote_section,
         content,
         flags=re.DOTALL
     )
@@ -105,7 +108,7 @@ def update_readme(quote, author):
         with open('README.md', 'w', encoding='utf-8') as f:
             f.write(new_content)
         print(f"✅ Quote updated successfully!")
-        print(f"New quote: '{quote}' – {author}")
+        print(f"New quote: '{quote}' — {author}")
     else:
         print("⚠️ No changes made to README.md")
 
