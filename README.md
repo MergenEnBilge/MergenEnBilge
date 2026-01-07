@@ -4,14 +4,13 @@
 <div align="center">
   
 <div align="center" style="margin-bottom:30px; line-height:1.5; max-width:650px;">
-  <span style="font-size:50px; color:#FFD700; vertical-align:top;">"</span>
+  <span style="font-size:50px; color:#FFD700; vertical-align:top;">Small deeds done are better than great deeds planned.</span>
   <span style="font-size:20px; color:#FFD700; font-style:italic; margin:0 10px;">
     The unexamined life is not worth living.
   </span>
   <span style="font-size:50px; color:#FFD700; vertical-align:bottom;">"</span>
   <div style="margin-top:10px; font-size:16px; color:#FFD700; font-style:italic;">
-    – Socrates
-  </div>
+    – Peter Marshall</div>
 </div>
 
 # Muhammad Abdullah Kamran Mughal
