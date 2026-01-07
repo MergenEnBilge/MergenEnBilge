@@ -14,8 +14,8 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v3
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}
-      
+          token: ${{ secrets.GITHUB_TOKEN }}  # Authenticate checkout with GitHub token
+
       - name: Set up Python
         uses: actions/setup-python@v4
         with:
@@ -26,7 +26,14 @@ jobs:
       
       - name: Commit and push if changed
         run: |
-          git config --global user.name 'github-actions[bot]'
-          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
           git add README.md
-          git diff --quiet && git diff --staged --quiet || (git commit -m "Update daily quote" && git push)
+          # Only commit if there are changes
+          if ! git diff --cached --quiet; then
+            git commit -m "Update daily quote"
+            git push
+          fi
+        env:
+          # Use the automatically provided token to authenticate git push
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
