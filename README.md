@@ -4,9 +4,9 @@
 <!-- QUOTE_START -->
 <div align="center">
 
-### ❝ *Talk is cheap. Show me the code.* ❞
+### ❝ *Work hard in silence; let success make the noise.* ❞
 
-#### *— Linus Torvalds*
+#### *— Frank Ocean*
 
 </div>
 <!-- QUOTE_END -->
