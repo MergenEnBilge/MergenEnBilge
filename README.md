@@ -4,9 +4,9 @@
 <!-- QUOTE_START -->
 <div align="center">
 
-### ❝ *Work hard in silence; let success make the noise.* ❞
+### ❝ *The wind and the waves are always on the side of the ablest navigator.* ❞
 
-#### *— Frank Ocean*
+#### *— Edward Gibbon*
 
 </div>
 <!-- QUOTE_END -->
