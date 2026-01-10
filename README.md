@@ -4,9 +4,9 @@
 <!-- QUOTE_START -->
 <div align="center">
 
-### ❝ *The wind and the waves are always on the side of the ablest navigator.* ❞
+### ❝ *Do not let what you cannot do interfere with what you can do.* ❞
 
-#### *— Edward Gibbon*
+#### *— John Wooden*
 
 </div>
 <!-- QUOTE_END -->
