@@ -4,9 +4,9 @@
 <!-- QUOTE_START -->
 <div align="center">
 
-### ❝ *Do not let what you cannot do interfere with what you can do.* ❞
+### ❝ *A journey of a thousand miles begins with a single step.* ❞
 
-#### *— John Wooden*
+#### *— Lao Tzu*
 
 </div>
 <!-- QUOTE_END -->
