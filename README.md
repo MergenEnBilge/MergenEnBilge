@@ -4,9 +4,9 @@
 <!-- QUOTE_START -->
 <div align="center">
 
-### ❝ *A journey of a thousand miles begins with a single step.* ❞
+### ❝ *Elegance is not a dispensable luxury but a quality that decides between success and failure.* ❞
 
-#### *— Lao Tzu*
+#### *— Edsger W. Dijkstra*
 
 </div>
 <!-- QUOTE_END -->
