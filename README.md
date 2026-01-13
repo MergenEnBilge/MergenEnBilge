@@ -4,9 +4,9 @@
 <!-- QUOTE_START -->
 <div align="center">
 
-### ❝ *Elegance is not a dispensable luxury but a quality that decides between success and failure.* ❞
+### ❝ *Knowledge is power.* ❞
 
-#### *— Edsger W. Dijkstra*
+#### *— Francis Bacon*
 
 </div>
 <!-- QUOTE_END -->
