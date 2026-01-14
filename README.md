@@ -4,9 +4,9 @@
 <!-- QUOTE_START -->
 <div align="center">
 
-### ❝ *Knowledge is power.* ❞
+### ❝ *Do not be afraid to make mistakes; they are the stepping stones to mastery.* ❞
 
-#### *— Francis Bacon*
+#### *— Unknown*
 
 </div>
 <!-- QUOTE_END -->
