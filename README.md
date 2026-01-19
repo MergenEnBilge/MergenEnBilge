@@ -4,9 +4,9 @@
 <!-- QUOTE_START -->
 <div align="center">
 
-### ❝ *Elegance is not a dispensable luxury but a quality that decides between success and failure.* ❞
+### ❝ *Opportunities multiply as they are seized.* ❞
 
-#### *— Edsger W. Dijkstra*
+#### *— Sun Tzu*
 
 </div>
 <!-- QUOTE_END -->
