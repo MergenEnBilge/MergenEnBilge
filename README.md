@@ -4,9 +4,9 @@
 <!-- QUOTE_START -->
 <div align="center">
 
-### ❝ *Opportunities multiply as they are seized.* ❞
+### ❝ *Vision without execution is hallucination.* ❞
 
-#### *— Sun Tzu*
+#### *— Thomas Edison*
 
 </div>
 <!-- QUOTE_END -->
