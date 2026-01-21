@@ -4,9 +4,9 @@
 <!-- QUOTE_START -->
 <div align="center">
 
-### ❝ *Vision without execution is hallucination.* ❞
+### ❝ *Do not be content with small deeds; strive for greatness.* ❞
 
-#### *— Thomas Edison*
+#### *— Babur*
 
 </div>
 <!-- QUOTE_END -->
