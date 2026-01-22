@@ -4,9 +4,9 @@
 <!-- QUOTE_START -->
 <div align="center">
 
-### ❝ *Do not be content with small deeds; strive for greatness.* ❞
+### ❝ *Simplicity is prerequisite for reliability.* ❞
 
-#### *— Babur*
+#### *— Edsger W. Dijkstra*
 
 </div>
 <!-- QUOTE_END -->
