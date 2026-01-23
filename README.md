@@ -4,9 +4,9 @@
 <!-- QUOTE_START -->
 <div align="center">
 
-### ❝ *Simplicity is prerequisite for reliability.* ❞
+### ❝ *Small deeds done are better than great deeds planned.* ❞
 
-#### *— Edsger W. Dijkstra*
+#### *— Peter Marshall*
 
 </div>
 <!-- QUOTE_END -->
