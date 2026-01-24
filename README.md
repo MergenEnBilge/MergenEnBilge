@@ -4,9 +4,9 @@
 <!-- QUOTE_START -->
 <div align="center">
 
-### ❝ *Small deeds done are better than great deeds planned.* ❞
+### ❝ *Simplicity is the soul of efficiency.* ❞
 
-#### *— Peter Marshall*
+#### *— Austin Freeman*
 
 </div>
 <!-- QUOTE_END -->
