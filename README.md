@@ -4,9 +4,9 @@
 <!-- QUOTE_START -->
 <div align="center">
 
-### ❝ *Simplicity is the soul of efficiency.* ❞
+### ❝ *Opportunities multiply as they are seized.* ❞
 
-#### *— Austin Freeman*
+#### *— Sun Tzu*
 
 </div>
 <!-- QUOTE_END -->
