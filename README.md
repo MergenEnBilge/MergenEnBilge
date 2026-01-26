@@ -4,9 +4,9 @@
 <!-- QUOTE_START -->
 <div align="center">
 
-### ❝ *Opportunities multiply as they are seized.* ❞
+### ❝ *The wise adapt themselves to circumstances, as water shapes itself to the vessel.* ❞
 
-#### *— Sun Tzu*
+#### *— Confucius*
 
 </div>
 <!-- QUOTE_END -->
