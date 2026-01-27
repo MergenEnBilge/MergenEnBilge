@@ -4,9 +4,9 @@
 <!-- QUOTE_START -->
 <div align="center">
 
-### ❝ *The wise adapt themselves to circumstances, as water shapes itself to the vessel.* ❞
+### ❝ *Simplicity is prerequisite for reliability.* ❞
 
-#### *— Confucius*
+#### *— Edsger W. Dijkstra*
 
 </div>
 <!-- QUOTE_END -->
