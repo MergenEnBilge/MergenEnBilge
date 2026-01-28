@@ -4,9 +4,9 @@
 <!-- QUOTE_START -->
 <div align="center">
 
-### ❝ *Simplicity is prerequisite for reliability.* ❞
+### ❝ *Be yourself; everyone else is already taken.* ❞
 
-#### *— Edsger W. Dijkstra*
+#### *— Oscar Wilde*
 
 </div>
 <!-- QUOTE_END -->
