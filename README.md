@@ -4,9 +4,9 @@
 <!-- QUOTE_START -->
 <div align="center">
 
-### ❝ *Be yourself; everyone else is already taken.* ❞
+### ❝ *Discipline is the bridge between goals and accomplishment.* ❞
 
-#### *— Oscar Wilde*
+#### *— Jim Rohn*
 
 </div>
 <!-- QUOTE_END -->
