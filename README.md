@@ -4,9 +4,9 @@
 <!-- QUOTE_START -->
 <div align="center">
 
-### ❝ *Discipline is the bridge between goals and accomplishment.* ❞
+### ❝ *Any sufficiently advanced technology is indistinguishable from magic.* ❞
 
-#### *— Jim Rohn*
+#### *— Arthur C. Clarke*
 
 </div>
 <!-- QUOTE_END -->
