@@ -4,9 +4,9 @@
 <!-- QUOTE_START -->
 <div align="center">
 
-### ❝ *Any sufficiently advanced technology is indistinguishable from magic.* ❞
+### ❝ *A person who moves a mountain begins by carrying away small stones.* ❞
 
-#### *— Arthur C. Clarke*
+#### *— Confucius*
 
 </div>
 <!-- QUOTE_END -->
