@@ -4,9 +4,9 @@
 <!-- QUOTE_START -->
 <div align="center">
 
-### ❝ *A person who moves a mountain begins by carrying away small stones.* ❞
+### ❝ *Perseverance is the hard work you do after you get tired of doing the hard work you already did.* ❞
 
-#### *— Confucius*
+#### *— Newt Gingrich*
 
 </div>
 <!-- QUOTE_END -->
