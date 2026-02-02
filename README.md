@@ -4,9 +4,9 @@
 <!-- QUOTE_START -->
 <div align="center">
 
-### ❝ *Perseverance is the hard work you do after you get tired of doing the hard work you already did.* ❞
+### ❝ *Success is no accident. It is hard work, perseverance, learning, and love of what you are doing.* ❞
 
-#### *— Newt Gingrich*
+#### *— Pelé*
 
 </div>
 <!-- QUOTE_END -->
