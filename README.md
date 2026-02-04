@@ -4,9 +4,9 @@
 <!-- QUOTE_START -->
 <div align="center">
 
-### ❝ *The unexamined life is not worth living.* ❞
+### ❝ *Perfection is achieved not when there is nothing more to add, but when there is nothing more to take away.* ❞
 
-#### *— Socrates*
+#### *— Antoine de Saint-Exupery*
 
 </div>
 <!-- QUOTE_END -->
