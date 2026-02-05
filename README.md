@@ -4,9 +4,9 @@
 <!-- QUOTE_START -->
 <div align="center">
 
-### ❝ *Perfection is achieved not when there is nothing more to add, but when there is nothing more to take away.* ❞
+### ❝ *Work for a cause, not for applause.* ❞
 
-#### *— Antoine de Saint-Exupery*
+#### *— Rumi*
 
 </div>
 <!-- QUOTE_END -->
