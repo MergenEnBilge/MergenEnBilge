@@ -4,9 +4,9 @@
 <!-- QUOTE_START -->
 <div align="center">
 
-### ❝ *Work for a cause, not for applause.* ❞
+### ❝ *The function of good software is to make the complex appear simple.* ❞
 
-#### *— Rumi*
+#### *— Grady Booch*
 
 </div>
 <!-- QUOTE_END -->
