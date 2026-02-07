@@ -4,9 +4,9 @@
 <!-- QUOTE_START -->
 <div align="center">
 
-### ❝ *The function of good software is to make the complex appear simple.* ❞
+### ❝ *Knowledge without practice is useless.* ❞
 
-#### *— Grady Booch*
+#### *— Al-Ghazali*
 
 </div>
 <!-- QUOTE_END -->
