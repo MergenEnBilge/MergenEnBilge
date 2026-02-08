@@ -4,9 +4,9 @@
 <!-- QUOTE_START -->
 <div align="center">
 
-### ❝ *Knowledge without practice is useless.* ❞
+### ❝ *He who is not courageous enough to take risks will accomplish nothing in life.* ❞
 
-#### *— Al-Ghazali*
+#### *— Muhammad Ali*
 
 </div>
 <!-- QUOTE_END -->
