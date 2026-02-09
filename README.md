@@ -4,9 +4,9 @@
 <!-- QUOTE_START -->
 <div align="center">
 
-### ❝ *He who is not courageous enough to take risks will accomplish nothing in life.* ❞
+### ❝ *Perseverance is the hard work you do after you get tired of doing the hard work you already did.* ❞
 
-#### *— Muhammad Ali*
+#### *— Newt Gingrich*
 
 </div>
 <!-- QUOTE_END -->
