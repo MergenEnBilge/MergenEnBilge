@@ -4,9 +4,9 @@
 <!-- QUOTE_START -->
 <div align="center">
 
-### ❝ *He who is not courageous enough to take risks will accomplish nothing in life.* ❞
+### ❝ *The function of good software is to make the complex appear simple.* ❞
 
-#### *— Muhammad Ali*
+#### *— Grady Booch*
 
 </div>
 <!-- QUOTE_END -->
