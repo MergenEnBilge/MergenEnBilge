@@ -4,9 +4,9 @@
 <!-- QUOTE_START -->
 <div align="center">
 
-### ❝ *The function of good software is to make the complex appear simple.* ❞
+### ❝ *Success is the sum of small efforts repeated day in and day out.* ❞
 
-#### *— Grady Booch*
+#### *— Robert Collier*
 
 </div>
 <!-- QUOTE_END -->
