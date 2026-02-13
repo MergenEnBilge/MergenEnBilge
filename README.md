@@ -4,9 +4,9 @@
 <!-- QUOTE_START -->
 <div align="center">
 
-### ❝ *Success is the sum of small efforts repeated day in and day out.* ❞
+### ❝ *The best error message is the one that never shows up.* ❞
 
-#### *— Robert Collier*
+#### *— Thomas Fuchs*
 
 </div>
 <!-- QUOTE_END -->
