@@ -4,9 +4,9 @@
 <!-- QUOTE_START -->
 <div align="center">
 
-### ❝ *The best error message is the one that never shows up.* ❞
+### ❝ *Discipline is the bridge between goals and accomplishment.* ❞
 
-#### *— Thomas Fuchs*
+#### *— Jim Rohn*
 
 </div>
 <!-- QUOTE_END -->
