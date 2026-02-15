@@ -4,9 +4,9 @@
 <!-- QUOTE_START -->
 <div align="center">
 
-### ❝ *Discipline is the bridge between goals and accomplishment.* ❞
+### ❝ *It is not the strongest of the species that survive, but the most adaptable.* ❞
 
-#### *— Jim Rohn*
+#### *— Charles Darwin*
 
 </div>
 <!-- QUOTE_END -->
