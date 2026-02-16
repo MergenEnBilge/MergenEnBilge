@@ -4,9 +4,9 @@
 <!-- QUOTE_START -->
 <div align="center">
 
-### ❝ *It is not the strongest of the species that survive, but the most adaptable.* ❞
+### ❝ *The only true wisdom is in knowing you know nothing.* ❞
 
-#### *— Charles Darwin*
+#### *— Socrates*
 
 </div>
 <!-- QUOTE_END -->
