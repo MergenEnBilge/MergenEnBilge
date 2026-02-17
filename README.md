@@ -4,9 +4,9 @@
 <!-- QUOTE_START -->
 <div align="center">
 
-### ❝ *The only true wisdom is in knowing you know nothing.* ❞
+### ❝ *Do not let what you cannot do interfere with what you can do.* ❞
 
-#### *— Socrates*
+#### *— John Wooden*
 
 </div>
 <!-- QUOTE_END -->
