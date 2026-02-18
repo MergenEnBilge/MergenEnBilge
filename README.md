@@ -4,9 +4,9 @@
 <!-- QUOTE_START -->
 <div align="center">
 
-### ❝ *Do not let what you cannot do interfere with what you can do.* ❞
+### ❝ *Innovation distinguishes between a leader and a follower.* ❞
 
-#### *— John Wooden*
+#### *— Steve Jobs*
 
 </div>
 <!-- QUOTE_END -->
