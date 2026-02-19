@@ -4,9 +4,9 @@
 <!-- QUOTE_START -->
 <div align="center">
 
-### ❝ *Innovation distinguishes between a leader and a follower.* ❞
+### ❝ *Code is like humor. When you have to explain it, it's bad.* ❞
 
-#### *— Steve Jobs*
+#### *— Cory House*
 
 </div>
 <!-- QUOTE_END -->
