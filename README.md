@@ -4,9 +4,9 @@
 <!-- QUOTE_START -->
 <div align="center">
 
-### ❝ *Talk is cheap. Show me the code.* ❞
+### ❝ *Make it work, make it right, make it fast.* ❞
 
-#### *— Linus Torvalds*
+#### *— Kent Beck*
 
 </div>
 <!-- QUOTE_END -->
