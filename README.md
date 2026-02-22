@@ -4,9 +4,9 @@
 <!-- QUOTE_START -->
 <div align="center">
 
-### ❝ *Make it work, make it right, make it fast.* ❞
+### ❝ *Do not be content with small deeds; strive for greatness.* ❞
 
-#### *— Kent Beck*
+#### *— Babur*
 
 </div>
 <!-- QUOTE_END -->
