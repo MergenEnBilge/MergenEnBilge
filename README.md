@@ -4,9 +4,9 @@
 <!-- QUOTE_START -->
 <div align="center">
 
-### ❝ *Do not be content with small deeds; strive for greatness.* ❞
+### ❝ *Do not pray for an easy life, pray for the strength to endure a difficult one.* ❞
 
-#### *— Babur*
+#### *— Bruce Lee*
 
 </div>
 <!-- QUOTE_END -->
