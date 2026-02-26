@@ -4,9 +4,9 @@
 <!-- QUOTE_START -->
 <div align="center">
 
-### ❝ *Strive not to be a success, but rather to be of value.* ❞
+### ❝ *Do not let what you cannot do interfere with what you can do.* ❞
 
-#### *— Albert Einstein*
+#### *— John Wooden*
 
 </div>
 <!-- QUOTE_END -->
