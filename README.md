@@ -4,9 +4,9 @@
 <!-- QUOTE_START -->
 <div align="center">
 
-### ❝ *Do not let what you cannot do interfere with what you can do.* ❞
+### ❝ *Programs are meant to be read by humans and only incidentally for computers to execute.* ❞
 
-#### *— John Wooden*
+#### *— Harold Abelson*
 
 </div>
 <!-- QUOTE_END -->
