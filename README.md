@@ -4,9 +4,9 @@
 <!-- QUOTE_START -->
 <div align="center">
 
-### ❝ *Programs are meant to be read by humans and only incidentally for computers to execute.* ❞
+### ❝ *Simplicity is the soul of efficiency.* ❞
 
-#### *— Harold Abelson*
+#### *— Austin Freeman*
 
 </div>
 <!-- QUOTE_END -->
