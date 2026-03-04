@@ -4,9 +4,9 @@
 <!-- QUOTE_START -->
 <div align="center">
 
-### ❝ *The only true wisdom is in knowing you know nothing.* ❞
+### ❝ *Strive not to be a success, but rather to be of value.* ❞
 
-#### *— Socrates*
+#### *— Albert Einstein*
 
 </div>
 <!-- QUOTE_END -->
