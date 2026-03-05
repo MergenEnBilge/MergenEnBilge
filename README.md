@@ -4,9 +4,9 @@
 <!-- QUOTE_START -->
 <div align="center">
 
-### ❝ *Strive not to be a success, but rather to be of value.* ❞
+### ❝ *Knowledge is power.* ❞
 
-#### *— Albert Einstein*
+#### *— Francis Bacon*
 
 </div>
 <!-- QUOTE_END -->
