@@ -4,9 +4,9 @@
 <!-- QUOTE_START -->
 <div align="center">
 
-### ❝ *Knowledge is power.* ❞
+### ❝ *Genius is one percent inspiration, ninety-nine percent perspiration.* ❞
 
-#### *— Francis Bacon*
+#### *— Thomas Edison*
 
 </div>
 <!-- QUOTE_END -->
