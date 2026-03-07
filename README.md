@@ -4,9 +4,9 @@
 <!-- QUOTE_START -->
 <div align="center">
 
-### ❝ *Genius is one percent inspiration, ninety-nine percent perspiration.* ❞
+### ❝ *First, solve the problem. Then, write the code.* ❞
 
-#### *— Thomas Edison*
+#### *— John Johnson*
 
 </div>
 <!-- QUOTE_END -->
