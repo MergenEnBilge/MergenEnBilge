@@ -4,9 +4,9 @@
 <!-- QUOTE_START -->
 <div align="center">
 
-### ❝ *First, solve the problem. Then, write the code.* ❞
+### ❝ *Do not pray for an easy life, pray for the strength to endure a difficult one.* ❞
 
-#### *— John Johnson*
+#### *— Bruce Lee*
 
 </div>
 <!-- QUOTE_END -->
