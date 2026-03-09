@@ -4,9 +4,9 @@
 <!-- QUOTE_START -->
 <div align="center">
 
-### ❝ *Do not pray for an easy life, pray for the strength to endure a difficult one.* ❞
+### ❝ *Do not seek to follow in the footsteps of the wise; seek what they sought.* ❞
 
-#### *— Bruce Lee*
+#### *— Matsuo Basho*
 
 </div>
 <!-- QUOTE_END -->
