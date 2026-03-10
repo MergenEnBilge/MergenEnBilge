@@ -4,9 +4,9 @@
 <!-- QUOTE_START -->
 <div align="center">
 
-### ❝ *Do not seek to follow in the footsteps of the wise; seek what they sought.* ❞
+### ❝ *The function of good software is to make the complex appear simple.* ❞
 
-#### *— Matsuo Basho*
+#### *— Grady Booch*
 
 </div>
 <!-- QUOTE_END -->
