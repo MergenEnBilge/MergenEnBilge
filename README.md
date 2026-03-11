@@ -4,9 +4,9 @@
 <!-- QUOTE_START -->
 <div align="center">
 
-### ❝ *The function of good software is to make the complex appear simple.* ❞
+### ❝ *It is not the strongest of the species that survive, but the most adaptable.* ❞
 
-#### *— Grady Booch*
+#### *— Charles Darwin*
 
 </div>
 <!-- QUOTE_END -->
