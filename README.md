@@ -4,9 +4,9 @@
 <!-- QUOTE_START -->
 <div align="center">
 
-### ❝ *It is not the strongest of the species that survive, but the most adaptable.* ❞
+### ❝ *Do not pray for an easy life, pray for the strength to endure a difficult one.* ❞
 
-#### *— Charles Darwin*
+#### *— Bruce Lee*
 
 </div>
 <!-- QUOTE_END -->
