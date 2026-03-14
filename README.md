@@ -4,9 +4,9 @@
 <!-- QUOTE_START -->
 <div align="center">
 
-### ❝ *Do not pray for an easy life, pray for the strength to endure a difficult one.* ❞
+### ❝ *Fortune favors the bold.* ❞
 
-#### *— Bruce Lee*
+#### *— Virgil*
 
 </div>
 <!-- QUOTE_END -->
