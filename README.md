@@ -4,9 +4,9 @@
 <!-- QUOTE_START -->
 <div align="center">
 
-### ❝ *Fortune favors the bold.* ❞
+### ❝ *The only way to do great work is to love what you do.* ❞
 
-#### *— Virgil*
+#### *— Steve Jobs*
 
 </div>
 <!-- QUOTE_END -->
