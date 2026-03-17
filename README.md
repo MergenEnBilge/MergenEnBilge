@@ -4,9 +4,9 @@
 <!-- QUOTE_START -->
 <div align="center">
 
-### ❝ *Work for a cause, not for applause.* ❞
+### ❝ *Innovation distinguishes between a leader and a follower.* ❞
 
-#### *— Rumi*
+#### *— Steve Jobs*
 
 </div>
 <!-- QUOTE_END -->
