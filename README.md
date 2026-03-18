@@ -4,9 +4,9 @@
 <!-- QUOTE_START -->
 <div align="center">
 
-### ❝ *Innovation distinguishes between a leader and a follower.* ❞
+### ❝ *The function of good software is to make the complex appear simple.* ❞
 
-#### *— Steve Jobs*
+#### *— Grady Booch*
 
 </div>
 <!-- QUOTE_END -->
