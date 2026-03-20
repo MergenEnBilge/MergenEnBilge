@@ -4,9 +4,9 @@
 <!-- QUOTE_START -->
 <div align="center">
 
-### ❝ *Work for a cause, not for applause.* ❞
+### ❝ *Small deeds done are better than great deeds planned.* ❞
 
-#### *— Rumi*
+#### *— Peter Marshall*
 
 </div>
 <!-- QUOTE_END -->
