@@ -4,9 +4,9 @@
 <!-- QUOTE_START -->
 <div align="center">
 
-### ❝ *Small deeds done are better than great deeds planned.* ❞
+### ❝ *Do not let what you cannot do interfere with what you can do.* ❞
 
-#### *— Peter Marshall*
+#### *— John Wooden*
 
 </div>
 <!-- QUOTE_END -->
