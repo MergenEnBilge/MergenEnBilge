@@ -4,9 +4,9 @@
 <!-- QUOTE_START -->
 <div align="center">
 
-### ❝ *Do not let what you cannot do interfere with what you can do.* ❞
+### ❝ *The best way to predict the future is to invent it.* ❞
 
-#### *— John Wooden*
+#### *— Alan Kay*
 
 </div>
 <!-- QUOTE_END -->
