@@ -4,9 +4,9 @@
 <!-- QUOTE_START -->
 <div align="center">
 
-### ❝ *The best way to predict the future is to invent it.* ❞
+### ❝ *Elegance is not a dispensable luxury but a quality that decides between success and failure.* ❞
 
-#### *— Alan Kay*
+#### *— Edsger W. Dijkstra*
 
 </div>
 <!-- QUOTE_END -->
