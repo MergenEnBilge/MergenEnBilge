@@ -4,9 +4,9 @@
 <!-- QUOTE_START -->
 <div align="center">
 
-### ❝ *Elegance is not a dispensable luxury but a quality that decides between success and failure.* ❞
+### ❝ *A man who has committed a mistake and doesn't correct it is committing another mistake.* ❞
 
-#### *— Edsger W. Dijkstra*
+#### *— Confucius*
 
 </div>
 <!-- QUOTE_END -->
