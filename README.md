@@ -4,9 +4,9 @@
 <!-- QUOTE_START -->
 <div align="center">
 
-### ❝ *Do not seek to follow in the footsteps of the wise; seek what they sought.* ❞
+### ❝ *First, solve the problem. Then, write the code.* ❞
 
-#### *— Matsuo Basho*
+#### *— John Johnson*
 
 </div>
 <!-- QUOTE_END -->
