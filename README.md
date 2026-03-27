@@ -4,9 +4,9 @@
 <!-- QUOTE_START -->
 <div align="center">
 
-### ❝ *First, solve the problem. Then, write the code.* ❞
+### ❝ *The greatest victory is the one that requires no battle.* ❞
 
-#### *— John Johnson*
+#### *— Timur*
 
 </div>
 <!-- QUOTE_END -->
