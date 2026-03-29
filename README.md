@@ -4,9 +4,9 @@
 <!-- QUOTE_START -->
 <div align="center">
 
-### ❝ *Truth can only be found in one place: the code.* ❞
+### ❝ *First, solve the problem. Then, write the code.* ❞
 
-#### *— Robert C. Martin*
+#### *— John Johnson*
 
 </div>
 <!-- QUOTE_END -->
