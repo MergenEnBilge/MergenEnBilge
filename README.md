@@ -4,9 +4,9 @@
 <!-- QUOTE_START -->
 <div align="center">
 
-### ❝ *First, solve the problem. Then, write the code.* ❞
+### ❝ *Without effort, nothing grows but weeds.* ❞
 
-#### *— John Johnson*
+#### *— Gandhi*
 
 </div>
 <!-- QUOTE_END -->
