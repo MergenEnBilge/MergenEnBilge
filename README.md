@@ -4,9 +4,9 @@
 <!-- QUOTE_START -->
 <div align="center">
 
-### ❝ *Without effort, nothing grows but weeds.* ❞
+### ❝ *He who conquers himself is the mightiest warrior.* ❞
 
-#### *— Gandhi*
+#### *— Chingiz Khan*
 
 </div>
 <!-- QUOTE_END -->
