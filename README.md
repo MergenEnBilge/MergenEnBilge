@@ -4,9 +4,9 @@
 <!-- QUOTE_START -->
 <div align="center">
 
-### ❝ *He who conquers himself is the mightiest warrior.* ❞
+### ❝ *Knowledge without practice is useless.* ❞
 
-#### *— Chingiz Khan*
+#### *— Al-Ghazali*
 
 </div>
 <!-- QUOTE_END -->
