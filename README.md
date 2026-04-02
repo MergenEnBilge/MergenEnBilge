@@ -4,9 +4,9 @@
 <!-- QUOTE_START -->
 <div align="center">
 
-### ❝ *Knowledge without practice is useless.* ❞
+### ❝ *The best way to predict the future is to invent it.* ❞
 
-#### *— Al-Ghazali*
+#### *— Alan Kay*
 
 </div>
 <!-- QUOTE_END -->
