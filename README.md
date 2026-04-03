@@ -4,9 +4,9 @@
 <!-- QUOTE_START -->
 <div align="center">
 
-### ❝ *The best way to predict the future is to invent it.* ❞
+### ❝ *The harder the conflict, the greater the triumph.* ❞
 
-#### *— Alan Kay*
+#### *— George Washington*
 
 </div>
 <!-- QUOTE_END -->
