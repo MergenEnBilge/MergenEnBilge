@@ -4,9 +4,9 @@
 <!-- QUOTE_START -->
 <div align="center">
 
-### ❝ *The harder the conflict, the greater the triumph.* ❞
+### ❝ *The function of good software is to make the complex appear simple.* ❞
 
-#### *— George Washington*
+#### *— Grady Booch*
 
 </div>
 <!-- QUOTE_END -->
