@@ -4,9 +4,9 @@
 <!-- QUOTE_START -->
 <div align="center">
 
-### ❝ *The function of good software is to make the complex appear simple.* ❞
+### ❝ *Truth can only be found in one place: the code.* ❞
 
-#### *— Grady Booch*
+#### *— Robert C. Martin*
 
 </div>
 <!-- QUOTE_END -->
