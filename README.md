@@ -4,9 +4,9 @@
 <!-- QUOTE_START -->
 <div align="center">
 
-### ❝ *Truth can only be found in one place: the code.* ❞
+### ❝ *Discipline is the bridge between goals and accomplishment.* ❞
 
-#### *— Robert C. Martin*
+#### *— Jim Rohn*
 
 </div>
 <!-- QUOTE_END -->
