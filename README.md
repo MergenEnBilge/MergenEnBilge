@@ -4,9 +4,9 @@
 <!-- QUOTE_START -->
 <div align="center">
 
-### ❝ *Discipline is the bridge between goals and accomplishment.* ❞
+### ❝ *Do what you can, with what you have, where you are.* ❞
 
-#### *— Jim Rohn*
+#### *— Theodore Roosevelt*
 
 </div>
 <!-- QUOTE_END -->
