@@ -4,9 +4,9 @@
 <!-- QUOTE_START -->
 <div align="center">
 
-### ❝ *Do what you can, with what you have, where you are.* ❞
+### ❝ *Success is the sum of small efforts repeated day in and day out.* ❞
 
-#### *— Theodore Roosevelt*
+#### *— Robert Collier*
 
 </div>
 <!-- QUOTE_END -->
