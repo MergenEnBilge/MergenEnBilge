@@ -4,9 +4,9 @@
 <!-- QUOTE_START -->
 <div align="center">
 
-### ❝ *Success is the sum of small efforts repeated day in and day out.* ❞
+### ❝ *Programs must be written for people to read, and only incidentally for machines to execute.* ❞
 
-#### *— Robert Collier*
+#### *— Harold Abelson*
 
 </div>
 <!-- QUOTE_END -->
