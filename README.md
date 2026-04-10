@@ -4,9 +4,9 @@
 <!-- QUOTE_START -->
 <div align="center">
 
-### ❝ *Programs must be written for people to read, and only incidentally for machines to execute.* ❞
+### ❝ *Knowledge without practice is useless.* ❞
 
-#### *— Harold Abelson*
+#### *— Al-Ghazali*
 
 </div>
 <!-- QUOTE_END -->
