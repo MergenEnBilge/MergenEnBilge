@@ -4,9 +4,9 @@
 <!-- QUOTE_START -->
 <div align="center">
 
-### ❝ *Knowledge without practice is useless.* ❞
+### ❝ *Elegance is not a dispensable luxury but a quality that decides between success and failure.* ❞
 
-#### *— Al-Ghazali*
+#### *— Edsger W. Dijkstra*
 
 </div>
 <!-- QUOTE_END -->
