@@ -4,9 +4,9 @@
 <!-- QUOTE_START -->
 <div align="center">
 
-### ❝ *Elegance is not a dispensable luxury but a quality that decides between success and failure.* ❞
+### ❝ *Make it work, make it right, make it fast.* ❞
 
-#### *— Edsger W. Dijkstra*
+#### *— Kent Beck*
 
 </div>
 <!-- QUOTE_END -->
