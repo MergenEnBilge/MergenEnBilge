@@ -4,9 +4,9 @@
 <!-- QUOTE_START -->
 <div align="center">
 
-### ❝ *Make it work, make it right, make it fast.* ❞
+### ❝ *Do not pray for an easy life, pray for the strength to endure a difficult one.* ❞
 
-#### *— Kent Beck*
+#### *— Bruce Lee*
 
 </div>
 <!-- QUOTE_END -->
