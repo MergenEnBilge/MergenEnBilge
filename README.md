@@ -4,9 +4,9 @@
 <!-- QUOTE_START -->
 <div align="center">
 
-### ❝ *Knowledge without practice is useless.* ❞
+### ❝ *Vision without execution is hallucination.* ❞
 
-#### *— Al-Ghazali*
+#### *— Thomas Edison*
 
 </div>
 <!-- QUOTE_END -->
