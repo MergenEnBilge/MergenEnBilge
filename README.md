@@ -4,9 +4,9 @@
 <!-- QUOTE_START -->
 <div align="center">
 
-### ❝ *Vision without execution is hallucination.* ❞
+### ❝ *Any sufficiently advanced technology is indistinguishable from magic.* ❞
 
-#### *— Thomas Edison*
+#### *— Arthur C. Clarke*
 
 </div>
 <!-- QUOTE_END -->
