@@ -4,9 +4,9 @@
 <!-- QUOTE_START -->
 <div align="center">
 
-### ❝ *Any sufficiently advanced technology is indistinguishable from magic.* ❞
+### ❝ *Any fool can write code that a computer can understand. Good programmers write code that humans can understand.* ❞
 
-#### *— Arthur C. Clarke*
+#### *— Martin Fowler*
 
 </div>
 <!-- QUOTE_END -->
