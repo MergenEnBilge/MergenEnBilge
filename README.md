@@ -4,9 +4,9 @@
 <!-- QUOTE_START -->
 <div align="center">
 
-### ❝ *First, solve the problem. Then, write the code.* ❞
+### ❝ *The best error message is the one that never shows up.* ❞
 
-#### *— John Johnson*
+#### *— Thomas Fuchs*
 
 </div>
 <!-- QUOTE_END -->
