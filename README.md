@@ -4,9 +4,9 @@
 <!-- QUOTE_START -->
 <div align="center">
 
-### ❝ *The best error message is the one that never shows up.* ❞
+### ❝ *A person who moves a mountain begins by carrying away small stones.* ❞
 
-#### *— Thomas Fuchs*
+#### *— Confucius*
 
 </div>
 <!-- QUOTE_END -->
