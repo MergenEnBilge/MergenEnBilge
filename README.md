@@ -4,9 +4,9 @@
 <!-- QUOTE_START -->
 <div align="center">
 
-### ❝ *A person who moves a mountain begins by carrying away small stones.* ❞
+### ❝ *The only true wisdom is in knowing you know nothing.* ❞
 
-#### *— Confucius*
+#### *— Socrates*
 
 </div>
 <!-- QUOTE_END -->
