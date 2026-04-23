@@ -4,9 +4,9 @@
 <!-- QUOTE_START -->
 <div align="center">
 
-### ❝ *The only true wisdom is in knowing you know nothing.* ❞
+### ❝ *Any fool can write code that a computer can understand. Good programmers write code that humans can understand.* ❞
 
-#### *— Socrates*
+#### *— Martin Fowler*
 
 </div>
 <!-- QUOTE_END -->
