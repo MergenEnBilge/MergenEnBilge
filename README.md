@@ -4,9 +4,9 @@
 <!-- QUOTE_START -->
 <div align="center">
 
-### ❝ *Knowledge is a treasure, but practice is the key to it.* ❞
+### ❝ *Success is no accident. It is hard work, perseverance, learning, and love of what you are doing.* ❞
 
-#### *— Al-Farabi*
+#### *— Pelé*
 
 </div>
 <!-- QUOTE_END -->
