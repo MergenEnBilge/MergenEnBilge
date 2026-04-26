@@ -4,9 +4,9 @@
 <!-- QUOTE_START -->
 <div align="center">
 
-### ❝ *Success is no accident. It is hard work, perseverance, learning, and love of what you are doing.* ❞
+### ❝ *The unexamined life is not worth living.* ❞
 
-#### *— Pelé*
+#### *— Socrates*
 
 </div>
 <!-- QUOTE_END -->
