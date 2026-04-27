@@ -4,9 +4,9 @@
 <!-- QUOTE_START -->
 <div align="center">
 
-### ❝ *The unexamined life is not worth living.* ❞
+### ❝ *The best error message is the one that never shows up.* ❞
 
-#### *— Socrates*
+#### *— Thomas Fuchs*
 
 </div>
 <!-- QUOTE_END -->
