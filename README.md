@@ -4,9 +4,9 @@
 <!-- QUOTE_START -->
 <div align="center">
 
-### ❝ *The best error message is the one that never shows up.* ❞
+### ❝ *Mistakes are the portals of discovery.* ❞
 
-#### *— Thomas Fuchs*
+#### *— James Joyce*
 
 </div>
 <!-- QUOTE_END -->
