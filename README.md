@@ -4,9 +4,9 @@
 <!-- QUOTE_START -->
 <div align="center">
 
-### ❝ *Mistakes are the portals of discovery.* ❞
+### ❝ *Do not seek to follow in the footsteps of the wise; seek what they sought.* ❞
 
-#### *— James Joyce*
+#### *— Matsuo Basho*
 
 </div>
 <!-- QUOTE_END -->
