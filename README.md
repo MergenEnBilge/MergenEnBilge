@@ -4,9 +4,9 @@
 <!-- QUOTE_START -->
 <div align="center">
 
-### ❝ *Do not seek to follow in the footsteps of the wise; seek what they sought.* ❞
+### ❝ *Simplicity is the soul of efficiency.* ❞
 
-#### *— Matsuo Basho*
+#### *— Austin Freeman*
 
 </div>
 <!-- QUOTE_END -->
