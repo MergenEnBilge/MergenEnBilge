@@ -4,9 +4,9 @@
 <!-- QUOTE_START -->
 <div align="center">
 
-### ❝ *Simplicity is the soul of efficiency.* ❞
+### ❝ *Strive not to be a success, but rather to be of value.* ❞
 
-#### *— Austin Freeman*
+#### *— Albert Einstein*
 
 </div>
 <!-- QUOTE_END -->
