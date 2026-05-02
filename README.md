@@ -4,9 +4,9 @@
 <!-- QUOTE_START -->
 <div align="center">
 
-### ❝ *Strive not to be a success, but rather to be of value.* ❞
+### ❝ *The function of good software is to make the complex appear simple.* ❞
 
-#### *— Albert Einstein*
+#### *— Grady Booch*
 
 </div>
 <!-- QUOTE_END -->
