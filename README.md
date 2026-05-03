@@ -4,9 +4,9 @@
 <!-- QUOTE_START -->
 <div align="center">
 
-### ❝ *The function of good software is to make the complex appear simple.* ❞
+### ❝ *In order to be irreplaceable, one must always be different.* ❞
 
-#### *— Grady Booch*
+#### *— Coco Chanel*
 
 </div>
 <!-- QUOTE_END -->
