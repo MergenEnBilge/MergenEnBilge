@@ -4,9 +4,9 @@
 <!-- QUOTE_START -->
 <div align="center">
 
-### ❝ *In order to be irreplaceable, one must always be different.* ❞
+### ❝ *Do not be content with small deeds; strive for greatness.* ❞
 
-#### *— Coco Chanel*
+#### *— Babur*
 
 </div>
 <!-- QUOTE_END -->
