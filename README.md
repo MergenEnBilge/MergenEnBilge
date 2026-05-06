@@ -4,9 +4,9 @@
 <!-- QUOTE_START -->
 <div align="center">
 
-### ❝ *Do not be afraid to make mistakes; they are the stepping stones to mastery.* ❞
+### ❝ *Great works are performed not by strength, but by perseverance.* ❞
 
-#### *— Unknown*
+#### *— Samuel Johnson*
 
 </div>
 <!-- QUOTE_END -->
