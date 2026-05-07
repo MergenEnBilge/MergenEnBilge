@@ -4,9 +4,9 @@
 <!-- QUOTE_START -->
 <div align="center">
 
-### ❝ *Great works are performed not by strength, but by perseverance.* ❞
+### ❝ *Knowledge is power.* ❞
 
-#### *— Samuel Johnson*
+#### *— Francis Bacon*
 
 </div>
 <!-- QUOTE_END -->
