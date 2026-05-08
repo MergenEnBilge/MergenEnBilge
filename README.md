@@ -4,9 +4,9 @@
 <!-- QUOTE_START -->
 <div align="center">
 
-### ❝ *Knowledge is power.* ❞
+### ❝ *The only way to do great work is to love what you do.* ❞
 
-#### *— Francis Bacon*
+#### *— Steve Jobs*
 
 </div>
 <!-- QUOTE_END -->
