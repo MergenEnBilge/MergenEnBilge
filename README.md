@@ -4,9 +4,9 @@
 <!-- QUOTE_START -->
 <div align="center">
 
-### ❝ *The only way to do great work is to love what you do.* ❞
+### ❝ *Do not be content with small deeds; strive for greatness.* ❞
 
-#### *— Steve Jobs*
+#### *— Babur*
 
 </div>
 <!-- QUOTE_END -->
