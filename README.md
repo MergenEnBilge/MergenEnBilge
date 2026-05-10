@@ -4,9 +4,9 @@
 <!-- QUOTE_START -->
 <div align="center">
 
-### ❝ *Do not be content with small deeds; strive for greatness.* ❞
+### ❝ *Any sufficiently advanced technology is indistinguishable from magic.* ❞
 
-#### *— Babur*
+#### *— Arthur C. Clarke*
 
 </div>
 <!-- QUOTE_END -->
