@@ -4,9 +4,9 @@
 <!-- QUOTE_START -->
 <div align="center">
 
-### ❝ *Any sufficiently advanced technology is indistinguishable from magic.* ❞
+### ❝ *The expert in anything was once a beginner.* ❞
 
-#### *— Arthur C. Clarke*
+#### *— Helen Hayes*
 
 </div>
 <!-- QUOTE_END -->
