@@ -4,9 +4,9 @@
 <!-- QUOTE_START -->
 <div align="center">
 
-### ❝ *Do not let what you cannot do interfere with what you can do.* ❞
+### ❝ *He who is not courageous enough to take risks will accomplish nothing in life.* ❞
 
-#### *— John Wooden*
+#### *— Muhammad Ali*
 
 </div>
 <!-- QUOTE_END -->
