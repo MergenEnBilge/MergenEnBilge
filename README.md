@@ -4,9 +4,9 @@
 <!-- QUOTE_START -->
 <div align="center">
 
-### ❝ *He who is not courageous enough to take risks will accomplish nothing in life.* ❞
+### ❝ *Do not be content with small deeds; strive for greatness.* ❞
 
-#### *— Muhammad Ali*
+#### *— Babur*
 
 </div>
 <!-- QUOTE_END -->
