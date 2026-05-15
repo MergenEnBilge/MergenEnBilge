@@ -4,9 +4,9 @@
 <!-- QUOTE_START -->
 <div align="center">
 
-### ❝ *Do not be content with small deeds; strive for greatness.* ❞
+### ❝ *Patience is bitter, but its fruit is sweet.* ❞
 
-#### *— Babur*
+#### *— Aristotle*
 
 </div>
 <!-- QUOTE_END -->
