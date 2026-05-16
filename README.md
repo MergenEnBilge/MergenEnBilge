@@ -4,9 +4,9 @@
 <!-- QUOTE_START -->
 <div align="center">
 
-### ❝ *Patience is bitter, but its fruit is sweet.* ❞
+### ❝ *The best error message is the one that never shows up.* ❞
 
-#### *— Aristotle*
+#### *— Thomas Fuchs*
 
 </div>
 <!-- QUOTE_END -->
