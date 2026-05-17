@@ -4,9 +4,9 @@
 <!-- QUOTE_START -->
 <div align="center">
 
-### ❝ *The best error message is the one that never shows up.* ❞
+### ❝ *The function of good software is to make the complex appear simple.* ❞
 
-#### *— Thomas Fuchs*
+#### *— Grady Booch*
 
 </div>
 <!-- QUOTE_END -->
