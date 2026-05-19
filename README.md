@@ -4,9 +4,9 @@
 <!-- QUOTE_START -->
 <div align="center">
 
-### ❝ *Work for a cause, not for applause.* ❞
+### ❝ *Discipline is the bridge between goals and accomplishment.* ❞
 
-#### *— Rumi*
+#### *— Jim Rohn*
 
 </div>
 <!-- QUOTE_END -->
