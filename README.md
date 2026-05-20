@@ -4,9 +4,9 @@
 <!-- QUOTE_START -->
 <div align="center">
 
-### ❝ *Discipline is the bridge between goals and accomplishment.* ❞
+### ❝ *The best way to predict the future is to invent it.* ❞
 
-#### *— Jim Rohn*
+#### *— Alan Kay*
 
 </div>
 <!-- QUOTE_END -->
