@@ -4,9 +4,9 @@
 <!-- QUOTE_START -->
 <div align="center">
 
-### ❝ *The best way to predict the future is to invent it.* ❞
+### ❝ *Success is no accident. It is hard work, perseverance, learning, and love of what you are doing.* ❞
 
-#### *— Alan Kay*
+#### *— Pelé*
 
 </div>
 <!-- QUOTE_END -->
