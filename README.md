@@ -4,9 +4,9 @@
 <!-- QUOTE_START -->
 <div align="center">
 
-### ❝ *Mistakes are the portals of discovery.* ❞
+### ❝ *The function of good software is to make the complex appear simple.* ❞
 
-#### *— James Joyce*
+#### *— Grady Booch*
 
 </div>
 <!-- QUOTE_END -->
