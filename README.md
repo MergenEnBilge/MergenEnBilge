@@ -4,9 +4,9 @@
 <!-- QUOTE_START -->
 <div align="center">
 
-### ❝ *The function of good software is to make the complex appear simple.* ❞
+### ❝ *The unexamined life is not worth living.* ❞
 
-#### *— Grady Booch*
+#### *— Socrates*
 
 </div>
 <!-- QUOTE_END -->
