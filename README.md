@@ -4,9 +4,9 @@
 <!-- QUOTE_START -->
 <div align="center">
 
-### ❝ *The unexamined life is not worth living.* ❞
+### ❝ *Knowledge is power.* ❞
 
-#### *— Socrates*
+#### *— Francis Bacon*
 
 </div>
 <!-- QUOTE_END -->
