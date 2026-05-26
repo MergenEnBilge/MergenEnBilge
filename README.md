@@ -4,9 +4,9 @@
 <!-- QUOTE_START -->
 <div align="center">
 
-### ❝ *Knowledge is power.* ❞
+### ❝ *The wind and the waves are always on the side of the ablest navigator.* ❞
 
-#### *— Francis Bacon*
+#### *— Edward Gibbon*
 
 </div>
 <!-- QUOTE_END -->
