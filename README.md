@@ -4,9 +4,9 @@
 <!-- QUOTE_START -->
 <div align="center">
 
-### ❝ *The wind and the waves are always on the side of the ablest navigator.* ❞
+### ❝ *Do what you can, with what you have, where you are.* ❞
 
-#### *— Edward Gibbon*
+#### *— Theodore Roosevelt*
 
 </div>
 <!-- QUOTE_END -->
