@@ -4,9 +4,9 @@
 <!-- QUOTE_START -->
 <div align="center">
 
-### ❝ *Do what you can, with what you have, where you are.* ❞
+### ❝ *Perseverance is the hard work you do after you get tired of doing the hard work you already did.* ❞
 
-#### *— Theodore Roosevelt*
+#### *— Newt Gingrich*
 
 </div>
 <!-- QUOTE_END -->
