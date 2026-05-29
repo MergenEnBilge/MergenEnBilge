@@ -4,9 +4,9 @@
 <!-- QUOTE_START -->
 <div align="center">
 
-### ❝ *Perseverance is the hard work you do after you get tired of doing the hard work you already did.* ❞
+### ❝ *Work hard in silence; let success make the noise.* ❞
 
-#### *— Newt Gingrich*
+#### *— Frank Ocean*
 
 </div>
 <!-- QUOTE_END -->
