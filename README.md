@@ -4,9 +4,9 @@
 <!-- QUOTE_START -->
 <div align="center">
 
-### ❝ *Knowledge is power.* ❞
+### ❝ *The only true wisdom is in knowing you know nothing.* ❞
 
-#### *— Francis Bacon*
+#### *— Socrates*
 
 </div>
 <!-- QUOTE_END -->
