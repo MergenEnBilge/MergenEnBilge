@@ -4,9 +4,9 @@
 <!-- QUOTE_START -->
 <div align="center">
 
-### ❝ *The only true wisdom is in knowing you know nothing.* ❞
+### ❝ *The greatest victory is the one that requires no battle.* ❞
 
-#### *— Socrates*
+#### *— Timur*
 
 </div>
 <!-- QUOTE_END -->
