@@ -4,9 +4,9 @@
 <!-- QUOTE_START -->
 <div align="center">
 
-### ❝ *The greatest victory is the one that requires no battle.* ❞
+### ❝ *Debugging is like being the detective in a crime movie where you are also the murderer.* ❞
 
-#### *— Timur*
+#### *— Filipe Fortes*
 
 </div>
 <!-- QUOTE_END -->
