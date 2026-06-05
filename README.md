@@ -4,9 +4,9 @@
 <!-- QUOTE_START -->
 <div align="center">
 
-### ❝ *Debugging is like being the detective in a crime movie where you are also the murderer.* ❞
+### ❝ *A man who has committed a mistake and doesn't correct it is committing another mistake.* ❞
 
-#### *— Filipe Fortes*
+#### *— Confucius*
 
 </div>
 <!-- QUOTE_END -->
