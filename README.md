@@ -4,9 +4,9 @@
 <!-- QUOTE_START -->
 <div align="center">
 
-### ❝ *Experience is the name everyone gives to their mistakes.* ❞
+### ❝ *Do what you can, with what you have, where you are.* ❞
 
-#### *— Oscar Wilde*
+#### *— Theodore Roosevelt*
 
 </div>
 <!-- QUOTE_END -->
