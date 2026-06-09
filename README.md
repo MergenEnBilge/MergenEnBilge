@@ -4,9 +4,9 @@
 <!-- QUOTE_START -->
 <div align="center">
 
-### ❝ *Experience is the name everyone gives to their mistakes.* ❞
+### ❝ *Do not be afraid to make mistakes; they are the stepping stones to mastery.* ❞
 
-#### *— Oscar Wilde*
+#### *— Unknown*
 
 </div>
 <!-- QUOTE_END -->
