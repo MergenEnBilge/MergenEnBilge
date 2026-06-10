@@ -4,9 +4,9 @@
 <!-- QUOTE_START -->
 <div align="center">
 
-### ❝ *Do not be afraid to make mistakes; they are the stepping stones to mastery.* ❞
+### ❝ *A journey of a thousand miles begins with a single step.* ❞
 
-#### *— Unknown*
+#### *— Lao Tzu*
 
 </div>
 <!-- QUOTE_END -->
