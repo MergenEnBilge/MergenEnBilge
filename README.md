@@ -4,9 +4,9 @@
 <!-- QUOTE_START -->
 <div align="center">
 
-### ❝ *A journey of a thousand miles begins with a single step.* ❞
+### ❝ *Perseverance is the hard work you do after you get tired of doing the hard work you already did.* ❞
 
-#### *— Lao Tzu*
+#### *— Newt Gingrich*
 
 </div>
 <!-- QUOTE_END -->
