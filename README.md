@@ -4,9 +4,9 @@
 <!-- QUOTE_START -->
 <div align="center">
 
-### ❝ *Perseverance is the hard work you do after you get tired of doing the hard work you already did.* ❞
+### ❝ *Do not let what you cannot do interfere with what you can do.* ❞
 
-#### *— Newt Gingrich*
+#### *— John Wooden*
 
 </div>
 <!-- QUOTE_END -->
