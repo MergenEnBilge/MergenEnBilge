@@ -4,9 +4,9 @@
 <!-- QUOTE_START -->
 <div align="center">
 
-### ❝ *Do not let what you cannot do interfere with what you can do.* ❞
+### ❝ *Any sufficiently advanced technology is indistinguishable from magic.* ❞
 
-#### *— John Wooden*
+#### *— Arthur C. Clarke*
 
 </div>
 <!-- QUOTE_END -->
