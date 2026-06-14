@@ -4,9 +4,9 @@
 <!-- QUOTE_START -->
 <div align="center">
 
-### ❝ *Any sufficiently advanced technology is indistinguishable from magic.* ❞
+### ❝ *Patience is bitter, but its fruit is sweet.* ❞
 
-#### *— Arthur C. Clarke*
+#### *— Aristotle*
 
 </div>
 <!-- QUOTE_END -->
