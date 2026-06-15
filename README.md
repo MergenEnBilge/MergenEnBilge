@@ -4,9 +4,9 @@
 <!-- QUOTE_START -->
 <div align="center">
 
-### ❝ *Patience is bitter, but its fruit is sweet.* ❞
+### ❝ *Work for a cause, not for applause.* ❞
 
-#### *— Aristotle*
+#### *— Rumi*
 
 </div>
 <!-- QUOTE_END -->
