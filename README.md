@@ -4,9 +4,9 @@
 <!-- QUOTE_START -->
 <div align="center">
 
-### ❝ *Work for a cause, not for applause.* ❞
+### ❝ *Be yourself; everyone else is already taken.* ❞
 
-#### *— Rumi*
+#### *— Oscar Wilde*
 
 </div>
 <!-- QUOTE_END -->
