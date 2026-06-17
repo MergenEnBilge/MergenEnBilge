@@ -4,9 +4,9 @@
 <!-- QUOTE_START -->
 <div align="center">
 
-### ❝ *Be yourself; everyone else is already taken.* ❞
+### ❝ *A journey of a thousand miles begins with a single step.* ❞
 
-#### *— Oscar Wilde*
+#### *— Lao Tzu*
 
 </div>
 <!-- QUOTE_END -->
