@@ -4,9 +4,9 @@
 <!-- QUOTE_START -->
 <div align="center">
 
-### ❝ *A journey of a thousand miles begins with a single step.* ❞
+### ❝ *Debugging is like being the detective in a crime movie where you are also the murderer.* ❞
 
-#### *— Lao Tzu*
+#### *— Filipe Fortes*
 
 </div>
 <!-- QUOTE_END -->
