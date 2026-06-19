@@ -4,9 +4,9 @@
 <!-- QUOTE_START -->
 <div align="center">
 
-### ❝ *Debugging is like being the detective in a crime movie where you are also the murderer.* ❞
+### ❝ *Simplicity is the soul of efficiency.* ❞
 
-#### *— Filipe Fortes*
+#### *— Austin Freeman*
 
 </div>
 <!-- QUOTE_END -->
