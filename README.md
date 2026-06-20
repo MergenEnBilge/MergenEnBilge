@@ -4,9 +4,9 @@
 <!-- QUOTE_START -->
 <div align="center">
 
-### ❝ *Simplicity is the soul of efficiency.* ❞
+### ❝ *An investment in knowledge pays the best interest.* ❞
 
-#### *— Austin Freeman*
+#### *— Benjamin Franklin*
 
 </div>
 <!-- QUOTE_END -->
