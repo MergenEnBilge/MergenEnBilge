@@ -4,9 +4,9 @@
 <!-- QUOTE_START -->
 <div align="center">
 
-### ❝ *An investment in knowledge pays the best interest.* ❞
+### ❝ *Work for a cause, not for applause.* ❞
 
-#### *— Benjamin Franklin*
+#### *— Rumi*
 
 </div>
 <!-- QUOTE_END -->
