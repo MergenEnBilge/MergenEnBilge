@@ -4,9 +4,9 @@
 <!-- QUOTE_START -->
 <div align="center">
 
-### ❝ *Fortune favors the bold.* ❞
+### ❝ *Work for a cause, not for applause.* ❞
 
-#### *— Virgil*
+#### *— Rumi*
 
 </div>
 <!-- QUOTE_END -->
