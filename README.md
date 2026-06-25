@@ -4,9 +4,9 @@
 <!-- QUOTE_START -->
 <div align="center">
 
-### ❝ *Fortune favors the bold.* ❞
+### ❝ *The expert in anything was once a beginner.* ❞
 
-#### *— Virgil*
+#### *— Helen Hayes*
 
 </div>
 <!-- QUOTE_END -->
