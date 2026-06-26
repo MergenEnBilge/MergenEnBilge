@@ -4,9 +4,9 @@
 <!-- QUOTE_START -->
 <div align="center">
 
-### ❝ *The expert in anything was once a beginner.* ❞
+### ❝ *The wind and the waves are always on the side of the ablest navigator.* ❞
 
-#### *— Helen Hayes*
+#### *— Edward Gibbon*
 
 </div>
 <!-- QUOTE_END -->
