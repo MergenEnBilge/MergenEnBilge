@@ -4,9 +4,9 @@
 <!-- QUOTE_START -->
 <div align="center">
 
-### ❝ *The wind and the waves are always on the side of the ablest navigator.* ❞
+### ❝ *A journey of a thousand miles begins with a single step.* ❞
 
-#### *— Edward Gibbon*
+#### *— Lao Tzu*
 
 </div>
 <!-- QUOTE_END -->
