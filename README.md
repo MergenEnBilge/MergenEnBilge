@@ -4,9 +4,9 @@
 <!-- QUOTE_START -->
 <div align="center">
 
-### ❝ *A journey of a thousand miles begins with a single step.* ❞
+### ❝ *Strive not to be a success, but rather to be of value.* ❞
 
-#### *— Lao Tzu*
+#### *— Albert Einstein*
 
 </div>
 <!-- QUOTE_END -->
