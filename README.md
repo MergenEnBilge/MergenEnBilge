@@ -4,9 +4,9 @@
 <!-- QUOTE_START -->
 <div align="center">
 
-### ❝ *Strive not to be a success, but rather to be of value.* ❞
+### ❝ *The greatest victory is the one that requires no battle.* ❞
 
-#### *— Albert Einstein*
+#### *— Timur*
 
 </div>
 <!-- QUOTE_END -->
