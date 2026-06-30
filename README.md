@@ -4,9 +4,9 @@
 <!-- QUOTE_START -->
 <div align="center">
 
-### ❝ *The greatest victory is the one that requires no battle.* ❞
+### ❝ *Truth can only be found in one place: the code.* ❞
 
-#### *— Timur*
+#### *— Robert C. Martin*
 
 </div>
 <!-- QUOTE_END -->
