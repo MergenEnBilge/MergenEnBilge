@@ -4,9 +4,9 @@
 <!-- QUOTE_START -->
 <div align="center">
 
-### ❝ *Truth can only be found in one place: the code.* ❞
+### ❝ *The only way to do great work is to love what you do.* ❞
 
-#### *— Robert C. Martin*
+#### *— Steve Jobs*
 
 </div>
 <!-- QUOTE_END -->
