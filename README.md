@@ -4,9 +4,9 @@
 <!-- QUOTE_START -->
 <div align="center">
 
-### ❝ *The only way to do great work is to love what you do.* ❞
+### ❝ *Work hard in silence; let success make the noise.* ❞
 
-#### *— Steve Jobs*
+#### *— Frank Ocean*
 
 </div>
 <!-- QUOTE_END -->
