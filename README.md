@@ -4,9 +4,9 @@
 <!-- QUOTE_START -->
 <div align="center">
 
-### ❝ *Work hard in silence; let success make the noise.* ❞
+### ❝ *Do not seek to follow in the footsteps of the wise; seek what they sought.* ❞
 
-#### *— Frank Ocean*
+#### *— Matsuo Basho*
 
 </div>
 <!-- QUOTE_END -->
