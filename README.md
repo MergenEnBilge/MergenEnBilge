@@ -4,9 +4,9 @@
 <!-- QUOTE_START -->
 <div align="center">
 
-### ❝ *Do not seek to follow in the footsteps of the wise; seek what they sought.* ❞
+### ❝ *A man who has committed a mistake and doesn't correct it is committing another mistake.* ❞
 
-#### *— Matsuo Basho*
+#### *— Confucius*
 
 </div>
 <!-- QUOTE_END -->
