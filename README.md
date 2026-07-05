@@ -4,9 +4,9 @@
 <!-- QUOTE_START -->
 <div align="center">
 
-### ❝ *A man who has committed a mistake and doesn't correct it is committing another mistake.* ❞
+### ❝ *He who conquers himself is the mightiest warrior.* ❞
 
-#### *— Confucius*
+#### *— Chingiz Khan*
 
 </div>
 <!-- QUOTE_END -->
