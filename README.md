@@ -4,9 +4,9 @@
 <!-- QUOTE_START -->
 <div align="center">
 
-### ❝ *He who conquers himself is the mightiest warrior.* ❞
+### ❝ *Debugging is like being the detective in a crime movie where you are also the murderer.* ❞
 
-#### *— Chingiz Khan*
+#### *— Filipe Fortes*
 
 </div>
 <!-- QUOTE_END -->
