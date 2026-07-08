@@ -4,9 +4,9 @@
 <!-- QUOTE_START -->
 <div align="center">
 
-### ❝ *Fortune favors the bold.* ❞
+### ❝ *Do not be content with small deeds; strive for greatness.* ❞
 
-#### *— Virgil*
+#### *— Babur*
 
 </div>
 <!-- QUOTE_END -->
