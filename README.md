@@ -4,9 +4,9 @@
 <!-- QUOTE_START -->
 <div align="center">
 
-### ❝ *Do not be content with small deeds; strive for greatness.* ❞
+### ❝ *The wind and the waves are always on the side of the ablest navigator.* ❞
 
-#### *— Babur*
+#### *— Edward Gibbon*
 
 </div>
 <!-- QUOTE_END -->
