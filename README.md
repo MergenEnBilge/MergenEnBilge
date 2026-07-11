@@ -4,9 +4,9 @@
 <!-- QUOTE_START -->
 <div align="center">
 
-### ❝ *The wind and the waves are always on the side of the ablest navigator.* ❞
+### ❝ *The best way to predict the future is to invent it.* ❞
 
-#### *— Edward Gibbon*
+#### *— Alan Kay*
 
 </div>
 <!-- QUOTE_END -->
