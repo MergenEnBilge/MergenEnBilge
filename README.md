@@ -4,9 +4,9 @@
 <!-- QUOTE_START -->
 <div align="center">
 
-### ❝ *The best way to predict the future is to invent it.* ❞
+### ❝ *Patience is bitter, but its fruit is sweet.* ❞
 
-#### *— Alan Kay*
+#### *— Aristotle*
 
 </div>
 <!-- QUOTE_END -->
