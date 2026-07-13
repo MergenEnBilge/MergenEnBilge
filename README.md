@@ -4,9 +4,9 @@
 <!-- QUOTE_START -->
 <div align="center">
 
-### ❝ *Patience is bitter, but its fruit is sweet.* ❞
+### ❝ *Simplicity is the soul of efficiency.* ❞
 
-#### *— Aristotle*
+#### *— Austin Freeman*
 
 </div>
 <!-- QUOTE_END -->
