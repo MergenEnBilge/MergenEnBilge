@@ -4,9 +4,9 @@
 <!-- QUOTE_START -->
 <div align="center">
 
-### ❝ *Simplicity is the soul of efficiency.* ❞
+### ❝ *Do not let what you cannot do interfere with what you can do.* ❞
 
-#### *— Austin Freeman*
+#### *— John Wooden*
 
 </div>
 <!-- QUOTE_END -->
