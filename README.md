@@ -4,9 +4,9 @@
 <!-- QUOTE_START -->
 <div align="center">
 
-### ❝ *Genius is one percent inspiration, ninety-nine percent perspiration.* ❞
+### ❝ *The function of good software is to make the complex appear simple.* ❞
 
-#### *— Thomas Edison*
+#### *— Grady Booch*
 
 </div>
 <!-- QUOTE_END -->
