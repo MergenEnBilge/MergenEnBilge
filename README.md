@@ -4,9 +4,9 @@
 <!-- QUOTE_START -->
 <div align="center">
 
-### ❝ *The function of good software is to make the complex appear simple.* ❞
+### ❝ *Simplicity is prerequisite for reliability.* ❞
 
-#### *— Grady Booch*
+#### *— Edsger W. Dijkstra*
 
 </div>
 <!-- QUOTE_END -->
