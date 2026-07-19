@@ -4,9 +4,9 @@
 <!-- QUOTE_START -->
 <div align="center">
 
-### ❝ *Do not be afraid to make mistakes; they are the stepping stones to mastery.* ❞
+### ❝ *Simplicity is prerequisite for reliability.* ❞
 
-#### *— Unknown*
+#### *— Edsger W. Dijkstra*
 
 </div>
 <!-- QUOTE_END -->
