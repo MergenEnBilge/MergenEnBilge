@@ -4,9 +4,9 @@
 <!-- QUOTE_START -->
 <div align="center">
 
-### ❝ *Small deeds done are better than great deeds planned.* ❞
+### ❝ *Experience is the name everyone gives to their mistakes.* ❞
 
-#### *— Peter Marshall*
+#### *— Oscar Wilde*
 
 </div>
 <!-- QUOTE_END -->
