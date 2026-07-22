@@ -4,9 +4,9 @@
 <!-- QUOTE_START -->
 <div align="center">
 
-### ❝ *Experience is the name everyone gives to their mistakes.* ❞
+### ❝ *Do not let what you cannot do interfere with what you can do.* ❞
 
-#### *— Oscar Wilde*
+#### *— John Wooden*
 
 </div>
 <!-- QUOTE_END -->
