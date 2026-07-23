@@ -4,9 +4,9 @@
 <!-- QUOTE_START -->
 <div align="center">
 
-### ❝ *Do not let what you cannot do interfere with what you can do.* ❞
+### ❝ *Do what you can, with what you have, where you are.* ❞
 
-#### *— John Wooden*
+#### *— Theodore Roosevelt*
 
 </div>
 <!-- QUOTE_END -->
