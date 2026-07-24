@@ -4,9 +4,9 @@
 <!-- QUOTE_START -->
 <div align="center">
 
-### ❝ *Do what you can, with what you have, where you are.* ❞
+### ❝ *Great works are performed not by strength, but by perseverance.* ❞
 
-#### *— Theodore Roosevelt*
+#### *— Samuel Johnson*
 
 </div>
 <!-- QUOTE_END -->
