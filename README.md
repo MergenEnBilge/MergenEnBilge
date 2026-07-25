@@ -4,9 +4,9 @@
 <!-- QUOTE_START -->
 <div align="center">
 
-### ❝ *Great works are performed not by strength, but by perseverance.* ❞
+### ❝ *Experience is the name everyone gives to their mistakes.* ❞
 
-#### *— Samuel Johnson*
+#### *— Oscar Wilde*
 
 </div>
 <!-- QUOTE_END -->
