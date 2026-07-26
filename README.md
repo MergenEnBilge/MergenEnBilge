@@ -4,9 +4,9 @@
 <!-- QUOTE_START -->
 <div align="center">
 
-### ❝ *Experience is the name everyone gives to their mistakes.* ❞
+### ❝ *A journey of a thousand miles begins with a single step.* ❞
 
-#### *— Oscar Wilde*
+#### *— Lao Tzu*
 
 </div>
 <!-- QUOTE_END -->
