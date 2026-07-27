@@ -4,9 +4,9 @@
 <!-- QUOTE_START -->
 <div align="center">
 
-### ❝ *A journey of a thousand miles begins with a single step.* ❞
+### ❝ *The harder the conflict, the greater the triumph.* ❞
 
-#### *— Lao Tzu*
+#### *— George Washington*
 
 </div>
 <!-- QUOTE_END -->
