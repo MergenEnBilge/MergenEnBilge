@@ -4,9 +4,9 @@
 <!-- QUOTE_START -->
 <div align="center">
 
-### ❝ *The harder the conflict, the greater the triumph.* ❞
+### ❝ *Simplicity is prerequisite for reliability.* ❞
 
-#### *— George Washington*
+#### *— Edsger W. Dijkstra*
 
 </div>
 <!-- QUOTE_END -->
