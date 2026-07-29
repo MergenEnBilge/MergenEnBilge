@@ -4,9 +4,9 @@
 <!-- QUOTE_START -->
 <div align="center">
 
-### ❝ *Simplicity is prerequisite for reliability.* ❞
+### ❝ *Opportunities multiply as they are seized.* ❞
 
-#### *— Edsger W. Dijkstra*
+#### *— Sun Tzu*
 
 </div>
 <!-- QUOTE_END -->
