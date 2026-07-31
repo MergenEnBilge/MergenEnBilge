@@ -4,9 +4,9 @@
 <!-- QUOTE_START -->
 <div align="center">
 
-### ❝ *Opportunities multiply as they are seized.* ❞
+### ❝ *Do not be afraid to make mistakes; they are the stepping stones to mastery.* ❞
 
-#### *— Sun Tzu*
+#### *— Unknown*
 
 </div>
 <!-- QUOTE_END -->
