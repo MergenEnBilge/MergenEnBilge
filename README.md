@@ -4,9 +4,9 @@
 <!-- QUOTE_START -->
 <div align="center">
 
-### ❝ *Do not be afraid to make mistakes; they are the stepping stones to mastery.* ❞
+### ❝ *Do not be content with small deeds; strive for greatness.* ❞
 
-#### *— Unknown*
+#### *— Babur*
 
 </div>
 <!-- QUOTE_END -->
