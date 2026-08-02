@@ -4,9 +4,9 @@
 <!-- QUOTE_START -->
 <div align="center">
 
-### ❝ *Do not be content with small deeds; strive for greatness.* ❞
+### ❝ *Knowledge without practice is useless.* ❞
 
-#### *— Babur*
+#### *— Al-Ghazali*
 
 </div>
 <!-- QUOTE_END -->
