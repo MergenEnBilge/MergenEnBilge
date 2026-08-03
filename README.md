@@ -4,9 +4,9 @@
 <!-- QUOTE_START -->
 <div align="center">
 
-### ❝ *Knowledge without practice is useless.* ❞
+### ❝ *It is not the strongest of the species that survive, but the most adaptable.* ❞
 
-#### *— Al-Ghazali*
+#### *— Charles Darwin*
 
 </div>
 <!-- QUOTE_END -->
