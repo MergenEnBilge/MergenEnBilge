@@ -4,9 +4,9 @@
 <!-- QUOTE_START -->
 <div align="center">
 
-### ❝ *It is not the strongest of the species that survive, but the most adaptable.* ❞
+### ❝ *Make it work, make it right, make it fast.* ❞
 
-#### *— Charles Darwin*
+#### *— Kent Beck*
 
 </div>
 <!-- QUOTE_END -->
