@@ -4,9 +4,9 @@
 <!-- QUOTE_START -->
 <div align="center">
 
-### ❝ *Make it work, make it right, make it fast.* ❞
+### ❝ *The function of good software is to make the complex appear simple.* ❞
 
-#### *— Kent Beck*
+#### *— Grady Booch*
 
 </div>
 <!-- QUOTE_END -->
