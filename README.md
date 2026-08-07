@@ -4,9 +4,9 @@
 <!-- QUOTE_START -->
 <div align="center">
 
-### ❝ *Patience is bitter, but its fruit is sweet.* ❞
+### ❝ *Great works are performed not by strength, but by perseverance.* ❞
 
-#### *— Aristotle*
+#### *— Samuel Johnson*
 
 </div>
 <!-- QUOTE_END -->
