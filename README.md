@@ -4,9 +4,9 @@
 <!-- QUOTE_START -->
 <div align="center">
 
-### ❝ *Great works are performed not by strength, but by perseverance.* ❞
+### ❝ *Vision without execution is hallucination.* ❞
 
-#### *— Samuel Johnson*
+#### *— Thomas Edison*
 
 </div>
 <!-- QUOTE_END -->
