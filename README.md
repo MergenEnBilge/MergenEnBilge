@@ -4,9 +4,9 @@
 <!-- QUOTE_START -->
 <div align="center">
 
-### ❝ *Vision without execution is hallucination.* ❞
+### ❝ *Without effort, nothing grows but weeds.* ❞
 
-#### *— Thomas Edison*
+#### *— Gandhi*
 
 </div>
 <!-- QUOTE_END -->
