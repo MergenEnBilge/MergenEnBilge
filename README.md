@@ -4,9 +4,9 @@
 <!-- QUOTE_START -->
 <div align="center">
 
-### ❝ *Without effort, nothing grows but weeds.* ❞
+### ❝ *Experience is the name everyone gives to their mistakes.* ❞
 
-#### *— Gandhi*
+#### *— Oscar Wilde*
 
 </div>
 <!-- QUOTE_END -->
