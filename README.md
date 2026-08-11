@@ -4,9 +4,9 @@
 <!-- QUOTE_START -->
 <div align="center">
 
-### ❝ *Experience is the name everyone gives to their mistakes.* ❞
+### ❝ *Vision without execution is hallucination.* ❞
 
-#### *— Oscar Wilde*
+#### *— Thomas Edison*
 
 </div>
 <!-- QUOTE_END -->
