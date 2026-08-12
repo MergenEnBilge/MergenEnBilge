@@ -4,9 +4,9 @@
 <!-- QUOTE_START -->
 <div align="center">
 
-### ❝ *Vision without execution is hallucination.* ❞
+### ❝ *First, solve the problem. Then, write the code.* ❞
 
-#### *— Thomas Edison*
+#### *— John Johnson*
 
 </div>
 <!-- QUOTE_END -->
