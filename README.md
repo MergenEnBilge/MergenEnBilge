@@ -4,9 +4,9 @@
 <!-- QUOTE_START -->
 <div align="center">
 
-### ❝ *First, solve the problem. Then, write the code.* ❞
+### ❝ *Small deeds done are better than great deeds planned.* ❞
 
-#### *— John Johnson*
+#### *— Peter Marshall*
 
 </div>
 <!-- QUOTE_END -->
