@@ -4,9 +4,9 @@
 <!-- QUOTE_START -->
 <div align="center">
 
-### ❝ *Small deeds done are better than great deeds planned.* ❞
+### ❝ *Innovation distinguishes between a leader and a follower.* ❞
 
-#### *— Peter Marshall*
+#### *— Steve Jobs*
 
 </div>
 <!-- QUOTE_END -->
