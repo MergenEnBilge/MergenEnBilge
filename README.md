@@ -4,9 +4,9 @@
 <!-- QUOTE_START -->
 <div align="center">
 
-### ❝ *Innovation distinguishes between a leader and a follower.* ❞
+### ❝ *Opportunities multiply as they are seized.* ❞
 
-#### *— Steve Jobs*
+#### *— Sun Tzu*
 
 </div>
 <!-- QUOTE_END -->
