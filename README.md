@@ -4,9 +4,9 @@
 <!-- QUOTE_START -->
 <div align="center">
 
-### ❝ *Opportunities multiply as they are seized.* ❞
+### ❝ *The harder the conflict, the greater the triumph.* ❞
 
-#### *— Sun Tzu*
+#### *— George Washington*
 
 </div>
 <!-- QUOTE_END -->
