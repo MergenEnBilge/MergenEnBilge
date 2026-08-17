@@ -4,9 +4,9 @@
 <!-- QUOTE_START -->
 <div align="center">
 
-### ❝ *The harder the conflict, the greater the triumph.* ❞
+### ❝ *The only way to do great work is to love what you do.* ❞
 
-#### *— George Washington*
+#### *— Steve Jobs*
 
 </div>
 <!-- QUOTE_END -->
