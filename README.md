@@ -4,9 +4,9 @@
 <!-- QUOTE_START -->
 <div align="center">
 
-### ❝ *The only way to do great work is to love what you do.* ❞
+### ❝ *Success is the sum of small efforts repeated day in and day out.* ❞
 
-#### *— Steve Jobs*
+#### *— Robert Collier*
 
 </div>
 <!-- QUOTE_END -->
