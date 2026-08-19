@@ -4,9 +4,9 @@
 <!-- QUOTE_START -->
 <div align="center">
 
-### ❝ *Success is the sum of small efforts repeated day in and day out.* ❞
+### ❝ *The only true wisdom is in knowing you know nothing.* ❞
 
-#### *— Robert Collier*
+#### *— Socrates*
 
 </div>
 <!-- QUOTE_END -->
