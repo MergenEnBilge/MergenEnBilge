@@ -4,9 +4,9 @@
 <!-- QUOTE_START -->
 <div align="center">
 
-### ❝ *The only true wisdom is in knowing you know nothing.* ❞
+### ❝ *Simplicity is prerequisite for reliability.* ❞
 
-#### *— Socrates*
+#### *— Edsger W. Dijkstra*
 
 </div>
 <!-- QUOTE_END -->
