@@ -4,9 +4,9 @@
 <!-- QUOTE_START -->
 <div align="center">
 
-### ❝ *Simplicity is prerequisite for reliability.* ❞
+### ❝ *Work hard in silence; let success make the noise.* ❞
 
-#### *— Edsger W. Dijkstra*
+#### *— Frank Ocean*
 
 </div>
 <!-- QUOTE_END -->
