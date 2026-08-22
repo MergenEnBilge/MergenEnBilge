@@ -4,9 +4,9 @@
 <!-- QUOTE_START -->
 <div align="center">
 
-### ❝ *Work hard in silence; let success make the noise.* ❞
+### ❝ *First, solve the problem. Then, write the code.* ❞
 
-#### *— Frank Ocean*
+#### *— John Johnson*
 
 </div>
 <!-- QUOTE_END -->
