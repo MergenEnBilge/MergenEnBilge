@@ -4,9 +4,9 @@
 <!-- QUOTE_START -->
 <div align="center">
 
-### ❝ *First, solve the problem. Then, write the code.* ❞
+### ❝ *The only true wisdom is in knowing you know nothing.* ❞
 
-#### *— John Johnson*
+#### *— Socrates*
 
 </div>
 <!-- QUOTE_END -->
