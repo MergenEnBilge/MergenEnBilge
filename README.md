@@ -4,9 +4,9 @@
 <!-- QUOTE_START -->
 <div align="center">
 
-### ❝ *The only true wisdom is in knowing you know nothing.* ❞
+### ❝ *In order to be irreplaceable, one must always be different.* ❞
 
-#### *— Socrates*
+#### *— Coco Chanel*
 
 </div>
 <!-- QUOTE_END -->
