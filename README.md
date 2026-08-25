@@ -4,9 +4,9 @@
 <!-- QUOTE_START -->
 <div align="center">
 
-### ❝ *In order to be irreplaceable, one must always be different.* ❞
+### ❝ *Patience is bitter, but its fruit is sweet.* ❞
 
-#### *— Coco Chanel*
+#### *— Aristotle*
 
 </div>
 <!-- QUOTE_END -->
