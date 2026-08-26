@@ -4,9 +4,9 @@
 <!-- QUOTE_START -->
 <div align="center">
 
-### ❝ *Patience is bitter, but its fruit is sweet.* ❞
+### ❝ *Success is no accident. It is hard work, perseverance, learning, and love of what you are doing.* ❞
 
-#### *— Aristotle*
+#### *— Pelé*
 
 </div>
 <!-- QUOTE_END -->
