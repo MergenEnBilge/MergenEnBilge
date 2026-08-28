@@ -4,9 +4,9 @@
 <!-- QUOTE_START -->
 <div align="center">
 
-### ❝ *Fortune favors the bold.* ❞
+### ❝ *Debugging is like being the detective in a crime movie where you are also the murderer.* ❞
 
-#### *— Virgil*
+#### *— Filipe Fortes*
 
 </div>
 <!-- QUOTE_END -->
