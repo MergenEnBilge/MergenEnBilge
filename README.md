@@ -4,9 +4,9 @@
 <!-- QUOTE_START -->
 <div align="center">
 
-### ❝ *The wise adapt themselves to circumstances, as water shapes itself to the vessel.* ❞
+### ❝ *Do not let what you cannot do interfere with what you can do.* ❞
 
-#### *— Confucius*
+#### *— John Wooden*
 
 </div>
 <!-- QUOTE_END -->
