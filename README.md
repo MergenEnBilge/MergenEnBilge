@@ -4,9 +4,9 @@
 <!-- QUOTE_START -->
 <div align="center">
 
-### ❝ *Do not let what you cannot do interfere with what you can do.* ❞
+### ❝ *Without effort, nothing grows but weeds.* ❞
 
-#### *— John Wooden*
+#### *— Gandhi*
 
 </div>
 <!-- QUOTE_END -->
