@@ -4,9 +4,9 @@
 <!-- QUOTE_START -->
 <div align="center">
 
-### ❝ *Without effort, nothing grows but weeds.* ❞
+### ❝ *Knowledge is power.* ❞
 
-#### *— Gandhi*
+#### *— Francis Bacon*
 
 </div>
 <!-- QUOTE_END -->
