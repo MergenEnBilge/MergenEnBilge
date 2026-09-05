@@ -4,9 +4,9 @@
 <!-- QUOTE_START -->
 <div align="center">
 
-### ❝ *A journey of a thousand miles begins with a single step.* ❞
+### ❝ *Mistakes are the portals of discovery.* ❞
 
-#### *— Lao Tzu*
+#### *— James Joyce*
 
 </div>
 <!-- QUOTE_END -->
