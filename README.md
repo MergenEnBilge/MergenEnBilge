@@ -4,9 +4,9 @@
 <!-- QUOTE_START -->
 <div align="center">
 
-### ❝ *Mistakes are the portals of discovery.* ❞
+### ❝ *Vision without execution is hallucination.* ❞
 
-#### *— James Joyce*
+#### *— Thomas Edison*
 
 </div>
 <!-- QUOTE_END -->
