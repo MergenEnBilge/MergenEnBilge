@@ -4,9 +4,9 @@
 <!-- QUOTE_START -->
 <div align="center">
 
-### ❝ *Vision without execution is hallucination.* ❞
+### ❝ *He who is not courageous enough to take risks will accomplish nothing in life.* ❞
 
-#### *— Thomas Edison*
+#### *— Muhammad Ali*
 
 </div>
 <!-- QUOTE_END -->
