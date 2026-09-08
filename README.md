@@ -4,9 +4,9 @@
 <!-- QUOTE_START -->
 <div align="center">
 
-### ❝ *He who is not courageous enough to take risks will accomplish nothing in life.* ❞
+### ❝ *Do what you can, with what you have, where you are.* ❞
 
-#### *— Muhammad Ali*
+#### *— Theodore Roosevelt*
 
 </div>
 <!-- QUOTE_END -->
