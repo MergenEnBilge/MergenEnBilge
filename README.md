@@ -4,9 +4,9 @@
 <!-- QUOTE_START -->
 <div align="center">
 
-### ❝ *Great works are performed not by strength, but by perseverance.* ❞
+### ❝ *Do not let what you cannot do interfere with what you can do.* ❞
 
-#### *— Samuel Johnson*
+#### *— John Wooden*
 
 </div>
 <!-- QUOTE_END -->
