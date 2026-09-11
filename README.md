@@ -4,9 +4,9 @@
 <!-- QUOTE_START -->
 <div align="center">
 
-### ❝ *Do not let what you cannot do interfere with what you can do.* ❞
+### ❝ *The expert in anything was once a beginner.* ❞
 
-#### *— John Wooden*
+#### *— Helen Hayes*
 
 </div>
 <!-- QUOTE_END -->
