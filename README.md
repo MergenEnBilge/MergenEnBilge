@@ -4,9 +4,9 @@
 <!-- QUOTE_START -->
 <div align="center">
 
-### ❝ *The expert in anything was once a beginner.* ❞
+### ❝ *Code is like humor. When you have to explain it, it's bad.* ❞
 
-#### *— Helen Hayes*
+#### *— Cory House*
 
 </div>
 <!-- QUOTE_END -->
