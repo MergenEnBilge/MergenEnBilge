@@ -4,9 +4,9 @@
 <!-- QUOTE_START -->
 <div align="center">
 
-### ❝ *Code is like humor. When you have to explain it, it's bad.* ❞
+### ❝ *Mistakes are the portals of discovery.* ❞
 
-#### *— Cory House*
+#### *— James Joyce*
 
 </div>
 <!-- QUOTE_END -->
