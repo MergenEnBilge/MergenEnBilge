@@ -4,9 +4,9 @@
 <!-- QUOTE_START -->
 <div align="center">
 
-### ❝ *Mistakes are the portals of discovery.* ❞
+### ❝ *Fortune favors the bold.* ❞
 
-#### *— James Joyce*
+#### *— Virgil*
 
 </div>
 <!-- QUOTE_END -->
