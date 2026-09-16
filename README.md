@@ -4,9 +4,9 @@
 <!-- QUOTE_START -->
 <div align="center">
 
-### ❝ *Discipline is the bridge between goals and accomplishment.* ❞
+### ❝ *Do not be content with small deeds; strive for greatness.* ❞
 
-#### *— Jim Rohn*
+#### *— Babur*
 
 </div>
 <!-- QUOTE_END -->
