@@ -4,9 +4,9 @@
 <!-- QUOTE_START -->
 <div align="center">
 
-### ❝ *Do not be content with small deeds; strive for greatness.* ❞
+### ❝ *Opportunities multiply as they are seized.* ❞
 
-#### *— Babur*
+#### *— Sun Tzu*
 
 </div>
 <!-- QUOTE_END -->
