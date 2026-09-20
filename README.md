@@ -4,9 +4,9 @@
 <!-- QUOTE_START -->
 <div align="center">
 
-### ❝ *Success is no accident. It is hard work, perseverance, learning, and love of what you are doing.* ❞
+### ❝ *The expert in anything was once a beginner.* ❞
 
-#### *— Pelé*
+#### *— Helen Hayes*
 
 </div>
 <!-- QUOTE_END -->
