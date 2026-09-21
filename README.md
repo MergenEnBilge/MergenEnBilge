@@ -4,9 +4,9 @@
 <!-- QUOTE_START -->
 <div align="center">
 
-### ❝ *The expert in anything was once a beginner.* ❞
+### ❝ *Genius is one percent inspiration, ninety-nine percent perspiration.* ❞
 
-#### *— Helen Hayes*
+#### *— Thomas Edison*
 
 </div>
 <!-- QUOTE_END -->
