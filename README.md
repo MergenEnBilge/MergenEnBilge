@@ -4,9 +4,9 @@
 <!-- QUOTE_START -->
 <div align="center">
 
-### ❝ *Vision without execution is hallucination.* ❞
+### ❝ *Make it work, make it right, make it fast.* ❞
 
-#### *— Thomas Edison*
+#### *— Kent Beck*
 
 </div>
 <!-- QUOTE_END -->
