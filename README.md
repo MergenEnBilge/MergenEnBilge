@@ -4,9 +4,9 @@
 <!-- QUOTE_START -->
 <div align="center">
 
-### ❝ *Make it work, make it right, make it fast.* ❞
+### ❝ *Discipline is the bridge between goals and accomplishment.* ❞
 
-#### *— Kent Beck*
+#### *— Jim Rohn*
 
 </div>
 <!-- QUOTE_END -->
