@@ -4,9 +4,9 @@
 <!-- QUOTE_START -->
 <div align="center">
 
-### ❝ *Discipline is the bridge between goals and accomplishment.* ❞
+### ❝ *Programs must be written for people to read, and only incidentally for machines to execute.* ❞
 
-#### *— Jim Rohn*
+#### *— Harold Abelson*
 
 </div>
 <!-- QUOTE_END -->
