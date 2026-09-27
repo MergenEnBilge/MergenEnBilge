@@ -4,9 +4,9 @@
 <!-- QUOTE_START -->
 <div align="center">
 
-### ❝ *Elegance is not a dispensable luxury but a quality that decides between success and failure.* ❞
+### ❝ *The expert in anything was once a beginner.* ❞
 
-#### *— Edsger W. Dijkstra*
+#### *— Helen Hayes*
 
 </div>
 <!-- QUOTE_END -->
