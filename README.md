@@ -4,9 +4,9 @@
 <!-- QUOTE_START -->
 <div align="center">
 
-### ❝ *The expert in anything was once a beginner.* ❞
+### ❝ *Success is the sum of small efforts repeated day in and day out.* ❞
 
-#### *— Helen Hayes*
+#### *— Robert Collier*
 
 </div>
 <!-- QUOTE_END -->
