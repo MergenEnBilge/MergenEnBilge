@@ -4,9 +4,9 @@
 <!-- QUOTE_START -->
 <div align="center">
 
-### ❝ *Success is the sum of small efforts repeated day in and day out.* ❞
+### ❝ *Knowledge is power.* ❞
 
-#### *— Robert Collier*
+#### *— Francis Bacon*
 
 </div>
 <!-- QUOTE_END -->
