@@ -4,9 +4,9 @@
 <!-- QUOTE_START -->
 <div align="center">
 
-### ❝ *Knowledge is power.* ❞
+### ❝ *A journey of a thousand miles begins with a single step.* ❞
 
-#### *— Francis Bacon*
+#### *— Lao Tzu*
 
 </div>
 <!-- QUOTE_END -->
