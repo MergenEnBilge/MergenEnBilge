@@ -4,9 +4,9 @@
 <!-- QUOTE_START -->
 <div align="center">
 
-### ❝ *A journey of a thousand miles begins with a single step.* ❞
+### ❝ *The best way to predict the future is to invent it.* ❞
 
-#### *— Lao Tzu*
+#### *— Alan Kay*
 
 </div>
 <!-- QUOTE_END -->
