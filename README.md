@@ -4,9 +4,9 @@
 <!-- QUOTE_START -->
 <div align="center">
 
-### ❝ *The best way to predict the future is to invent it.* ❞
+### ❝ *Do not be afraid to make mistakes; they are the stepping stones to mastery.* ❞
 
-#### *— Alan Kay*
+#### *— Unknown*
 
 </div>
 <!-- QUOTE_END -->
