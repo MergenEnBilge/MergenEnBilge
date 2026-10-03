@@ -4,9 +4,9 @@
 <!-- QUOTE_START -->
 <div align="center">
 
-### ❝ *Do not be afraid to make mistakes; they are the stepping stones to mastery.* ❞
+### ❝ *Mistakes are the portals of discovery.* ❞
 
-#### *— Unknown*
+#### *— James Joyce*
 
 </div>
 <!-- QUOTE_END -->
