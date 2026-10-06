@@ -4,9 +4,9 @@
 <!-- QUOTE_START -->
 <div align="center">
 
-### ❝ *Mistakes are the portals of discovery.* ❞
+### ❝ *Programs are meant to be read by humans and only incidentally for computers to execute.* ❞
 
-#### *— James Joyce*
+#### *— Harold Abelson*
 
 </div>
 <!-- QUOTE_END -->
