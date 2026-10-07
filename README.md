@@ -4,9 +4,9 @@
 <!-- QUOTE_START -->
 <div align="center">
 
-### ❝ *Programs are meant to be read by humans and only incidentally for computers to execute.* ❞
+### ❝ *The wise adapt themselves to circumstances, as water shapes itself to the vessel.* ❞
 
-#### *— Harold Abelson*
+#### *— Confucius*
 
 </div>
 <!-- QUOTE_END -->
