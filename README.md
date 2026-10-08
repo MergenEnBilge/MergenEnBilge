@@ -4,9 +4,9 @@
 <!-- QUOTE_START -->
 <div align="center">
 
-### ❝ *The wise adapt themselves to circumstances, as water shapes itself to the vessel.* ❞
+### ❝ *Any sufficiently advanced technology is indistinguishable from magic.* ❞
 
-#### *— Confucius*
+#### *— Arthur C. Clarke*
 
 </div>
 <!-- QUOTE_END -->
