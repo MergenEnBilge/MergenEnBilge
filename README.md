@@ -4,9 +4,9 @@
 <!-- QUOTE_START -->
 <div align="center">
 
-### ❝ *Any sufficiently advanced technology is indistinguishable from magic.* ❞
+### ❝ *Success is no accident. It is hard work, perseverance, learning, and love of what you are doing.* ❞
 
-#### *— Arthur C. Clarke*
+#### *— Pelé*
 
 </div>
 <!-- QUOTE_END -->
