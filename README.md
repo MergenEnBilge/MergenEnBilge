@@ -4,9 +4,9 @@
 <!-- QUOTE_START -->
 <div align="center">
 
-### ❝ *The best way to predict the future is to invent it.* ❞
+### ❝ *Make it work, make it right, make it fast.* ❞
 
-#### *— Alan Kay*
+#### *— Kent Beck*
 
 </div>
 <!-- QUOTE_END -->
