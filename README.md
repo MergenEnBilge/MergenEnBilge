@@ -4,9 +4,9 @@
 <!-- QUOTE_START -->
 <div align="center">
 
-### ❝ *Make it work, make it right, make it fast.* ❞
+### ❝ *Fortune favors the bold.* ❞
 
-#### *— Kent Beck*
+#### *— Virgil*
 
 </div>
 <!-- QUOTE_END -->
