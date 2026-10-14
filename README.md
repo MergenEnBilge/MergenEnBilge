@@ -4,9 +4,9 @@
 <!-- QUOTE_START -->
 <div align="center">
 
-### ❝ *Success is no accident. It is hard work, perseverance, learning, and love of what you are doing.* ❞
+### ❝ *Be yourself; everyone else is already taken.* ❞
 
-#### *— Pelé*
+#### *— Oscar Wilde*
 
 </div>
 <!-- QUOTE_END -->
