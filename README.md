@@ -4,9 +4,9 @@
 <!-- QUOTE_START -->
 <div align="center">
 
-### ❝ *Be yourself; everyone else is already taken.* ❞
+### ❝ *Do what you can, with what you have, where you are.* ❞
 
-#### *— Oscar Wilde*
+#### *— Theodore Roosevelt*
 
 </div>
 <!-- QUOTE_END -->
