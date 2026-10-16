@@ -4,9 +4,9 @@
 <!-- QUOTE_START -->
 <div align="center">
 
-### ❝ *Do what you can, with what you have, where you are.* ❞
+### ❝ *Genius is one percent inspiration, ninety-nine percent perspiration.* ❞
 
-#### *— Theodore Roosevelt*
+#### *— Thomas Edison*
 
 </div>
 <!-- QUOTE_END -->
