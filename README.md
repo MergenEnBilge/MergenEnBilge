@@ -4,9 +4,9 @@
 <!-- QUOTE_START -->
 <div align="center">
 
-### ❝ *Genius is one percent inspiration, ninety-nine percent perspiration.* ❞
+### ❝ *Simplicity is the soul of efficiency.* ❞
 
-#### *— Thomas Edison*
+#### *— Austin Freeman*
 
 </div>
 <!-- QUOTE_END -->
