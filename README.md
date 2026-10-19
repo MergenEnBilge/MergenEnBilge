@@ -4,9 +4,9 @@
 <!-- QUOTE_START -->
 <div align="center">
 
-### ❝ *Elegance is not a dispensable luxury but a quality that decides between success and failure.* ❞
+### ❝ *Strive not to be a success, but rather to be of value.* ❞
 
-#### *— Edsger W. Dijkstra*
+#### *— Albert Einstein*
 
 </div>
 <!-- QUOTE_END -->
