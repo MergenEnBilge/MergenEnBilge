@@ -4,9 +4,9 @@
 <!-- QUOTE_START -->
 <div align="center">
 
-### ❝ *Strive not to be a success, but rather to be of value.* ❞
+### ❝ *Genius is one percent inspiration, ninety-nine percent perspiration.* ❞
 
-#### *— Albert Einstein*
+#### *— Thomas Edison*
 
 </div>
 <!-- QUOTE_END -->
