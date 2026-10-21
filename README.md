@@ -4,9 +4,9 @@
 <!-- QUOTE_START -->
 <div align="center">
 
-### ❝ *Genius is one percent inspiration, ninety-nine percent perspiration.* ❞
+### ❝ *He who is not courageous enough to take risks will accomplish nothing in life.* ❞
 
-#### *— Thomas Edison*
+#### *— Muhammad Ali*
 
 </div>
 <!-- QUOTE_END -->
