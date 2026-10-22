@@ -4,9 +4,9 @@
 <!-- QUOTE_START -->
 <div align="center">
 
-### ❝ *He who is not courageous enough to take risks will accomplish nothing in life.* ❞
+### ❝ *Simplicity is the soul of efficiency.* ❞
 
-#### *— Muhammad Ali*
+#### *— Austin Freeman*
 
 </div>
 <!-- QUOTE_END -->
