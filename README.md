@@ -4,9 +4,9 @@
 <!-- QUOTE_START -->
 <div align="center">
 
-### ❝ *Simplicity is the soul of efficiency.* ❞
+### ❝ *The expert in anything was once a beginner.* ❞
 
-#### *— Austin Freeman*
+#### *— Helen Hayes*
 
 </div>
 <!-- QUOTE_END -->
