@@ -4,9 +4,9 @@
 <!-- QUOTE_START -->
 <div align="center">
 
-### ❝ *The expert in anything was once a beginner.* ❞
+### ❝ *Knowledge is power.* ❞
 
-#### *— Helen Hayes*
+#### *— Francis Bacon*
 
 </div>
 <!-- QUOTE_END -->
