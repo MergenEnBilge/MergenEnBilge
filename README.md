@@ -4,9 +4,9 @@
 <!-- QUOTE_START -->
 <div align="center">
 
-### ❝ *Knowledge is power.* ❞
+### ❝ *Make it work, make it right, make it fast.* ❞
 
-#### *— Francis Bacon*
+#### *— Kent Beck*
 
 </div>
 <!-- QUOTE_END -->
