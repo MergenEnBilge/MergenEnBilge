@@ -4,9 +4,9 @@
 <!-- QUOTE_START -->
 <div align="center">
 
-### ❝ *Make it work, make it right, make it fast.* ❞
+### ❝ *Programs must be written for people to read, and only incidentally for machines to execute.* ❞
 
-#### *— Kent Beck*
+#### *— Harold Abelson*
 
 </div>
 <!-- QUOTE_END -->
