@@ -4,9 +4,9 @@
 <!-- QUOTE_START -->
 <div align="center">
 
-### ❝ *Programs must be written for people to read, and only incidentally for machines to execute.* ❞
+### ❝ *Elegance is not a dispensable luxury but a quality that decides between success and failure.* ❞
 
-#### *— Harold Abelson*
+#### *— Edsger W. Dijkstra*
 
 </div>
 <!-- QUOTE_END -->
