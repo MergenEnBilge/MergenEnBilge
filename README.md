@@ -4,9 +4,9 @@
 <!-- QUOTE_START -->
 <div align="center">
 
-### ❝ *Elegance is not a dispensable luxury but a quality that decides between success and failure.* ❞
+### ❝ *The function of good software is to make the complex appear simple.* ❞
 
-#### *— Edsger W. Dijkstra*
+#### *— Grady Booch*
 
 </div>
 <!-- QUOTE_END -->
