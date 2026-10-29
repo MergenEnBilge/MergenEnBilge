@@ -4,9 +4,9 @@
 <!-- QUOTE_START -->
 <div align="center">
 
-### ❝ *The function of good software is to make the complex appear simple.* ❞
+### ❝ *A journey of a thousand miles begins with a single step.* ❞
 
-#### *— Grady Booch*
+#### *— Lao Tzu*
 
 </div>
 <!-- QUOTE_END -->
