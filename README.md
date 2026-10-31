@@ -4,9 +4,9 @@
 <!-- QUOTE_START -->
 <div align="center">
 
-### ❝ *Perseverance is the hard work you do after you get tired of doing the hard work you already did.* ❞
+### ❝ *Simplicity is prerequisite for reliability.* ❞
 
-#### *— Newt Gingrich*
+#### *— Edsger W. Dijkstra*
 
 </div>
 <!-- QUOTE_END -->
