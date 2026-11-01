@@ -4,9 +4,9 @@
 <!-- QUOTE_START -->
 <div align="center">
 
-### ❝ *Simplicity is prerequisite for reliability.* ❞
+### ❝ *Perfection is achieved not when there is nothing more to add, but when there is nothing more to take away.* ❞
 
-#### *— Edsger W. Dijkstra*
+#### *— Antoine de Saint-Exupery*
 
 </div>
 <!-- QUOTE_END -->
