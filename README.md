@@ -4,9 +4,9 @@
 <!-- QUOTE_START -->
 <div align="center">
 
-### ❝ *Perfection is achieved not when there is nothing more to add, but when there is nothing more to take away.* ❞
+### ❝ *Code is like humor. When you have to explain it, it's bad.* ❞
 
-#### *— Antoine de Saint-Exupery*
+#### *— Cory House*
 
 </div>
 <!-- QUOTE_END -->
