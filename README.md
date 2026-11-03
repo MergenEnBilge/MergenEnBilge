@@ -4,9 +4,9 @@
 <!-- QUOTE_START -->
 <div align="center">
 
-### ❝ *Code is like humor. When you have to explain it, it's bad.* ❞
+### ❝ *Work hard in silence; let success make the noise.* ❞
 
-#### *— Cory House*
+#### *— Frank Ocean*
 
 </div>
 <!-- QUOTE_END -->
