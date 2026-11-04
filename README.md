@@ -4,9 +4,9 @@
 <!-- QUOTE_START -->
 <div align="center">
 
-### ❝ *Work hard in silence; let success make the noise.* ❞
+### ❝ *Experience is the name everyone gives to their mistakes.* ❞
 
-#### *— Frank Ocean*
+#### *— Oscar Wilde*
 
 </div>
 <!-- QUOTE_END -->
