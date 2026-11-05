@@ -4,9 +4,9 @@
 <!-- QUOTE_START -->
 <div align="center">
 
-### ❝ *Experience is the name everyone gives to their mistakes.* ❞
+### ❝ *Discipline is the bridge between goals and accomplishment.* ❞
 
-#### *— Oscar Wilde*
+#### *— Jim Rohn*
 
 </div>
 <!-- QUOTE_END -->
