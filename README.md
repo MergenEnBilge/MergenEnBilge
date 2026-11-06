@@ -4,9 +4,9 @@
 <!-- QUOTE_START -->
 <div align="center">
 
-### ❝ *Discipline is the bridge between goals and accomplishment.* ❞
+### ❝ *The function of good software is to make the complex appear simple.* ❞
 
-#### *— Jim Rohn*
+#### *— Grady Booch*
 
 </div>
 <!-- QUOTE_END -->
