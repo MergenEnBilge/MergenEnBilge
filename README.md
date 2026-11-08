@@ -4,9 +4,9 @@
 <!-- QUOTE_START -->
 <div align="center">
 
-### ❝ *Discipline is the bridge between goals and accomplishment.* ❞
+### ❝ *Genius is one percent inspiration, ninety-nine percent perspiration.* ❞
 
-#### *— Jim Rohn*
+#### *— Thomas Edison*
 
 </div>
 <!-- QUOTE_END -->
