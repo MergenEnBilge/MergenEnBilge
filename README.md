@@ -4,9 +4,9 @@
 <!-- QUOTE_START -->
 <div align="center">
 
-### ❝ *Genius is one percent inspiration, ninety-nine percent perspiration.* ❞
+### ❝ *Elegance is not a dispensable luxury but a quality that decides between success and failure.* ❞
 
-#### *— Thomas Edison*
+#### *— Edsger W. Dijkstra*
 
 </div>
 <!-- QUOTE_END -->
