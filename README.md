@@ -4,9 +4,9 @@
 <!-- QUOTE_START -->
 <div align="center">
 
-### ❝ *Elegance is not a dispensable luxury but a quality that decides between success and failure.* ❞
+### ❝ *He who conquers himself is the mightiest warrior.* ❞
 
-#### *— Edsger W. Dijkstra*
+#### *— Chingiz Khan*
 
 </div>
 <!-- QUOTE_END -->
