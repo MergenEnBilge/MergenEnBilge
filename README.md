@@ -4,9 +4,9 @@
 <!-- QUOTE_START -->
 <div align="center">
 
-### ❝ *He who conquers himself is the mightiest warrior.* ❞
+### ❝ *Success is no accident. It is hard work, perseverance, learning, and love of what you are doing.* ❞
 
-#### *— Chingiz Khan*
+#### *— Pelé*
 
 </div>
 <!-- QUOTE_END -->
