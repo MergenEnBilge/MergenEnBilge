@@ -4,9 +4,9 @@
 <!-- QUOTE_START -->
 <div align="center">
 
-### ❝ *Knowledge is power.* ❞
+### ❝ *Discipline is the bridge between goals and accomplishment.* ❞
 
-#### *— Francis Bacon*
+#### *— Jim Rohn*
 
 </div>
 <!-- QUOTE_END -->
