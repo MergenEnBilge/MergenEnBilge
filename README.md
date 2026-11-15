@@ -4,9 +4,9 @@
 <!-- QUOTE_START -->
 <div align="center">
 
-### ❝ *Discipline is the bridge between goals and accomplishment.* ❞
+### ❝ *Fortune favors the bold.* ❞
 
-#### *— Jim Rohn*
+#### *— Virgil*
 
 </div>
 <!-- QUOTE_END -->
