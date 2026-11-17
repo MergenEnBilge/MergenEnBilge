@@ -4,9 +4,9 @@
 <!-- QUOTE_START -->
 <div align="center">
 
-### ❝ *The wind and the waves are always on the side of the ablest navigator.* ❞
+### ❝ *He who conquers himself is the mightiest warrior.* ❞
 
-#### *— Edward Gibbon*
+#### *— Chingiz Khan*
 
 </div>
 <!-- QUOTE_END -->
