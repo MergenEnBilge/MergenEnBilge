@@ -4,9 +4,9 @@
 <!-- QUOTE_START -->
 <div align="center">
 
-### ❝ *He who conquers himself is the mightiest warrior.* ❞
+### ❝ *Programs are meant to be read by humans and only incidentally for computers to execute.* ❞
 
-#### *— Chingiz Khan*
+#### *— Harold Abelson*
 
 </div>
 <!-- QUOTE_END -->
