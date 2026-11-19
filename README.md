@@ -4,9 +4,9 @@
 <!-- QUOTE_START -->
 <div align="center">
 
-### ❝ *Programs are meant to be read by humans and only incidentally for computers to execute.* ❞
+### ❝ *Debugging is like being the detective in a crime movie where you are also the murderer.* ❞
 
-#### *— Harold Abelson*
+#### *— Filipe Fortes*
 
 </div>
 <!-- QUOTE_END -->
