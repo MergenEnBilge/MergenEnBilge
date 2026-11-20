@@ -4,9 +4,9 @@
 <!-- QUOTE_START -->
 <div align="center">
 
-### ❝ *Debugging is like being the detective in a crime movie where you are also the murderer.* ❞
+### ❝ *Knowledge is a treasure, but practice is the key to it.* ❞
 
-#### *— Filipe Fortes*
+#### *— Al-Farabi*
 
 </div>
 <!-- QUOTE_END -->
