@@ -4,9 +4,9 @@
 <!-- QUOTE_START -->
 <div align="center">
 
-### ❝ *The unexamined life is not worth living.* ❞
+### ❝ *Knowledge is a treasure, but practice is the key to it.* ❞
 
-#### *— Socrates*
+#### *— Al-Farabi*
 
 </div>
 <!-- QUOTE_END -->
