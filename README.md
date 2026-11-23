@@ -4,9 +4,9 @@
 <!-- QUOTE_START -->
 <div align="center">
 
-### ❝ *Knowledge is a treasure, but practice is the key to it.* ❞
+### ❝ *Perfection is achieved not when there is nothing more to add, but when there is nothing more to take away.* ❞
 
-#### *— Al-Farabi*
+#### *— Antoine de Saint-Exupery*
 
 </div>
 <!-- QUOTE_END -->
