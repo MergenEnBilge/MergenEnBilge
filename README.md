@@ -4,9 +4,9 @@
 <!-- QUOTE_START -->
 <div align="center">
 
-### ❝ *Perfection is achieved not when there is nothing more to add, but when there is nothing more to take away.* ❞
+### ❝ *Vision without execution is hallucination.* ❞
 
-#### *— Antoine de Saint-Exupery*
+#### *— Thomas Edison*
 
 </div>
 <!-- QUOTE_END -->
