@@ -4,9 +4,9 @@
 <!-- QUOTE_START -->
 <div align="center">
 
-### ❝ *The function of good software is to make the complex appear simple.* ❞
+### ❝ *Great works are performed not by strength, but by perseverance.* ❞
 
-#### *— Grady Booch*
+#### *— Samuel Johnson*
 
 </div>
 <!-- QUOTE_END -->
