@@ -4,9 +4,9 @@
 <!-- QUOTE_START -->
 <div align="center">
 
-### ❝ *Great works are performed not by strength, but by perseverance.* ❞
+### ❝ *The wind and the waves are always on the side of the ablest navigator.* ❞
 
-#### *— Samuel Johnson*
+#### *— Edward Gibbon*
 
 </div>
 <!-- QUOTE_END -->
