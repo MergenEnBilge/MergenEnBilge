@@ -4,9 +4,9 @@
 <!-- QUOTE_START -->
 <div align="center">
 
-### ❝ *The wind and the waves are always on the side of the ablest navigator.* ❞
+### ❝ *Work for a cause, not for applause.* ❞
 
-#### *— Edward Gibbon*
+#### *— Rumi*
 
 </div>
 <!-- QUOTE_END -->
